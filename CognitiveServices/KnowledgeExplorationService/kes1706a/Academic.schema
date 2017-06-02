@@ -1,0 +1,11 @@
+{
+  "attributes":[
+    {"name":"Title", "type":"String"},
+    {"name":"Year", "type":"Int32"},
+    {"name":"Author", "type":"Composite"},
+    {"name":"Author.Id", "type":"Int64", "operations":["equals"]},
+    {"name":"Author.Name", "type":"String"},
+    {"name":"Author.Affiliation", "type":"String"},
+    {"name":"Keyword", "type":"String", "synonyms":"Keyword.syn"}
+  ]
+}

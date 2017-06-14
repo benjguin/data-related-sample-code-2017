@@ -1,6 +1,6 @@
 # data-related-sample-code-2017
 
-This repo contains data related sample code, written in 2017.
+This repo contains data related sample code, written or gathered in 2017.
 
 Additional data related sample code where I contributed are available at the following locations: 
 - <https://github.com/boontadata/boontadata-streams>

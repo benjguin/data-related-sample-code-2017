@@ -76,6 +76,8 @@ GPU 0: Tesla K80 (UUID: GPU-c9f34655-261a-9421-cf12-3c2d194dfcb9)
 
 Documentation for this utility can be found here: <http://developer.download.nvidia.com/compute/DCGM/docs/nvidia-smi-367.38.pdf>
 
+NB: use `watch nvidia-smi` to monitor the GPU usage instead of having a one shot view of it.
+
 JupyterHub
 
 define a password for current user (if you used an ssh key)
@@ -84,7 +86,7 @@ define a password for current user (if you used an ssh key)
 sudo passwd benjguin
 ```
 
-connect to https://0.0.0.0:8000
+connect to <https://0.0.0.0:8000> (https is important)
 
 run the `CNTK_202_Language_Understanding` notebook in the CNTK folder
 

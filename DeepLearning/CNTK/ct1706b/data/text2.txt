@@ -1,0 +1,153 @@
+from wikipedia
+
+The Last of Us
+From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search 
+The Last of Us
+
+Developer(s)
+Naughty Dog
+Publisher(s)
+Sony Computer Entertainment
+Director(s)
+Bruce Straley
+Neil Druckmann
+Designer(s)
+Jacob Minkoff
+Programmer(s)
+Travis McIntosh
+Jason Gregory
+Artist(s)
+Erick Pangilinan
+Nate Wells
+Writer(s)
+Neil Druckmann
+Composer(s)
+Gustavo Santaolalla
+Platform(s)
+PlayStation 3
+Release
+WW: June 14, 2013
+Genre(s)
+Action-adventure, survival horror
+Mode(s)
+Single-player, multiplayer
+The Last of Us is an action-adventure survival horror video game developed by Naughty Dog and published by Sony Computer Entertainment. It was released for the PlayStation 3 worldwide on June 14, 2013. Players control Joel, a smuggler tasked with escorting a teenage girl named Ellie across a post-apocalyptic United States. The Last of Us is played from a third-person perspective; players use firearms and improvised weapons, and can use stealth to defend against hostile humans and cannibalistic creatures infected by a mutated strain of the Cordyceps fungus. In the game's online multiplayer mode, up to eight players engage in co-operative and competitive gameplay.
+Development of The Last of Us began in 2009, soon after the release of Naughty Dog's previous game, Uncharted 2: Among Thieves. The relationship between Joel and Ellie became the central focus of the game, with all other elements developed around it. Actors Troy Baker and Ashley Johnson portrayed Joel and Ellie respectively through voice and motion capture, and assisted creative director Neil Druckmann with the development of the characters and story. The original score was composed and performed by Gustavo Santaolalla.
+Following its announcement in December 2011, The Last of Us was widely anticipated. Upon release, it received universal acclaim, with praise directed at its narrative, gameplay, visual and sound design, characterization, and depiction of female characters. The Last of Us became one of the best-selling games on the PlayStation 3, selling over 1.3 million units in its first week and over eight million units within fourteen months. It won year-end accolades, including multiple Game of the Year awards from several gaming publications, critics, and game award ceremonies, making it one of the most awarded games in history, and it is considered to be one of the greatest video games of all time.
+After the game's release, Naughty Dog released several downloadable content additions; The Last of Us: Left Behind adds a single-player campaign following Ellie and her best friend Riley. An enhanced edition of the original game, The Last of Us Remastered, was released for the PlayStation 4 in July 2014.[a] A sequel, The Last of Us Part II, was announced in December 2016.
+
+Contents  [hide] 
+1
+Gameplay
+1.1
+Multiplayer
+2
+Plot
+3
+Development
+3.1
+Additional content
+3.2
+The Last of Us Remastered
+4
+Reception
+4.1
+Critical response
+4.2
+Sales
+4.3
+Awards
+5
+Adaptations
+6
+Sequel
+7
+References
+7.1
+Notes
+7.2
+Footnotes
+8
+External links
+
+Gameplay[edit]
+The Last of Us is an action-adventure survival horror game played from a third-person perspective.[1] Players traverse post-apocalyptic environments such as towns, buildings, and sewers to advance the story. Players use firearms, improvised weapons, and stealth to defend against hostile humans and cannibalistic creatures infected by a mutated strain of the Cordyceps fungus. For most of the game, players control Joel, a man tasked with escorting a young girl, Ellie, across the United States; Ellie and other companions are controlled by the artificial intelligence.[2] Players also control Ellie throughout the game's winter segment.[3]
+In combat, players can use long-range weapons, such as rifles, shotguns, and bows, and short-range weapons such as handguns and short-barreled shotgun. Players can scavenge limited-use melee weapons, such as pipes and baseball bats, and throw bottles and bricks to distract, stun, or attack enemies.[4] Players can upgrade weapons at workbenches using collected items. Equipment such as health kits and Molotov cocktails can be found or crafted using collected items. Attributes such as the health meter and crafting speed can be upgraded by collecting pills and medicinal plants. Health can be recharged through the use of health kits.[5]
+ 
+
+Listen Mode allows players to discover the position of enemies by displaying their outline through walls, achieved through a heightened sense of hearing and spatial awareness.[6]
+Though players can attack enemies directly, they can also use stealth to attack undetected or sneak by them. "Listen Mode" allows players to locate enemies through a heightened sense of hearing and spatial awareness, indicated as outlines visible through walls and objects.[6] In the dynamic cover system, players crouch behind obstacles to gain a tactical advantage during combat.[7] The game features periods without combat, often involving conversation between the characters.[8] Players solve simple puzzles, such as using floating pallets to move Ellie, who is unable to swim, across bodies of water, and using ladders or dumpsters to reach higher areas. Story collectibles, such as notes, maps and comics, can be scavenged and viewed in the backpack menu.[9]
+The game features an artificial intelligence system by which hostile human enemies react to combat. If enemies discover the player, they may take cover or call for assistance, and can take advantage of players when they are distracted, out of ammunition, or in a fight. Player companions, such as Ellie, can assist in combat by throwing objects at threats to stun them, announcing the location of unseen enemies, or using a knife and pistol to attack enemies.[10]
+Multiplayer[edit]
+The online multiplayer allows up to eight players to engage in competitive gameplay in recreations of multiple single-player settings. The game features three multiplayer game types: Supply Raid and Survivors are both team deathmatches, with the latter excluding the ability to respawn;[11] Interrogation features teams investigating the location of the enemy team's lockbox, and the first to capture such lockbox wins.[12] In every mode, players select a faction—Hunters (a group of hostile survivors) or Fireflies (a revolutionary militia group)—and keep their clan alive by collecting supplies during matches. Each match is equal to one day; by surviving twelve "weeks", players have completed a journey and can re-select their Faction.[13] Killing enemies, reviving allies, and crafting items earn the player parts that can be converted to supplies; parts can also be scavenged from enemies' bodies. Players are able to carry more equipment by earning points as their clan's supplies grow. Players can connect the game to their Facebook account, which alters clan members' names and faces to match the players' Facebook friends.[14] Players have the ability to customize their characters with hats, helmets, masks, and emblems.[15]
+Plot[edit]
+See also: List of The Last of Us characters
+In September 2013, an outbreak of a mutant Cordyceps fungus ravages the United States, transforming its human hosts into cannibalistic monsters known as infected. In the suburbs of Austin, Texas, Joel (Troy Baker) flees the chaos with his brother Tommy (Jeffrey Pierce) and daughter Sarah (Hana Hayes). As they flee, Sarah is shot by a soldier and dies in Joel's arms. In the twenty years that follow, most of civilization is destroyed by the infection. Survivors live in heavily policed quarantine zones, independent settlements, and nomadic groups. Joel works as a smuggler with his partner Tess (Annie Wersching) in the Boston, Massachusetts, quarantine zone. They hunt down Robert (Robin Atkin Downes), a black market dealer, to recover a stolen weapons cache. Before Tess kills him, Robert reveals that he traded the cache with the Fireflies, a rebel militia opposing the quarantine zone authorities.
+The leader of the Fireflies, Marlene (Merle Dandridge), promises to double their cache in return for smuggling a teenage girl, Ellie (Ashley Johnson), to Fireflies hiding in the Boston capitol building outside the quarantine zone. Joel, Tess, and Ellie sneak out in the night, but after an encounter with a patrol, they discover Ellie is infected. Full infection normally occurs in under two days, but Ellie claims she was infected three weeks ago and that her immunity may lead to a cure. The trio make their way to their destination through hordes of the infected, but find that the Fireflies there have been killed. Tess reveals she has been bitten by an infected; believing in Ellie's importance, Tess sacrifices herself against pursuing soldiers so Joel and Ellie can escape. Joel decides to find Tommy, a former Firefly, in the hope that he can locate the remaining Fireflies. With the help of Bill (W. Earl Brown), a smuggler who owes Joel a favor, they acquire a working vehicle. Driving into Pittsburgh, Pennsylvania, Joel and Ellie are ambushed by bandits and their car is wrecked. They ally with two brothers, Henry (Brandon Scott) and Sam (Nadji Jeter); after they escape the city, Sam is bitten by an infected, but hides it from the group. As his infection takes hold, Sam attacks Ellie, but Henry shoots him dead and commits suicide.
+In the fall, Joel and Ellie finally find Tommy in Jackson, Wyoming, where he has assembled a fortified settlement near a hydroelectric dam with his wife Maria (Ashley Scott). Joel contemplates leaving Ellie with Tommy, but after she confronts him about Sarah, he decides to let her stay with him. Tommy directs them to a Fireflies enclave at the University of Eastern Colorado. They find the university abandoned, but learn that the Fireflies have moved to a hospital in Salt Lake City, Utah. Afterward, Joel is severely wounded by bandits, who are killed by Ellie.
+During the winter, Ellie and Joel shelter in the mountains. Joel is on the brink of death and relies on Ellie to care for him. Hunting for food, Ellie encounters David (Nolan North) and James (Reuben Langdon), scavengers willing to trade medicine for food; David turns hostile after revealing the university bandits were part of his group. Ellie manages to lead David's group away from Joel, but is eventually captured; David intends to recruit her into his cannibal group. Refusing the offer, she escapes after killing James, but David corners her in a burning restaurant. Meanwhile, Joel recovers from his wounds and sets out to find Ellie. He reaches Ellie as she kills David; Joel consoles her before they flee.
+In the spring, Joel and Ellie arrive in Salt Lake City and are captured by a Firefly patrol. In the hospital, Marlene tells Joel that Ellie is being prepared for surgery: in hope of producing a vaccine for the infection, the Fireflies must remove the infected portion of Ellie's brain, which will kill her. Unwilling to let Ellie die, Joel battles his way to the operating room and carries the unconscious Ellie to the parking garage. He is confronted by Marlene, whom he shoots and kills to prevent the Fireflies from pursuing them. On the drive out of the city, Joel claims that the Fireflies had found many other immune people but were unable to create a cure, and that they have stopped trying. On the outskirts of Tommy's settlement, Ellie reveals that she was not alone when she was infected and expresses her survivor guilt. At her insistence, Joel swears his story about the Fireflies is true.[16]
+Development[edit]
+Main article: Development of The Last of Us
+
+
+
+Bruce Straley (left) and Neil Druckmann (right) were appointed to lead development on The Last of Us, as game director and creative director, respectively.[17]
+Naughty Dog began developing The Last of Us in 2009, following the release of Uncharted 2: Among Thieves. For the first time in the company's history, Naughty Dog split into two teams; while one team developed Uncharted 3: Drake's Deception (2011), the other began work on The Last of Us.[18] Director Bruce Straley and creative director Neil Druckmann led the team responsible for developing The Last of Us.[17]
+Druckmann views The Last of Us as a coming of age story, in which Ellie adapts to survival after spending time with Joel, as well as an exploration of how willing a father is to save his child.[19] A major motif of the game is that "life goes on";[20] this is presented in a scene in which Joel and Ellie discover a herd of giraffes, which concept artist John Sweeney explained was designed to "reignite [Ellie's] lust for life", after her suffering following her encounter with David.[21] The Infected, a core concept of the game, were inspired by a segment of the BBC nature documentary Planet Earth (2006), which featured the Cordyceps fungi.[22] Though the fungi mainly infect insects, taking control of their motor functions and forcing it to help cultivate the fungus,[23] the game explores the concept of the fungus evolving and infecting humans, and the direct results of an outbreak of this infection.[22]
+The relationship between Joel and Ellie was the central focus of the game; all other elements were developed around it. Troy Baker and Ashley Johnson were cast as Joel and Ellie, respectively, and provided voice and motion capture performances.[24] Baker and Johnson contributed to the development of the characters;[25] for example, Baker convinced Druckmann that Joel would care for Tess due to his loneliness,[26] and Johnson convinced Druckmann that Ellie should be stronger and more defensive.[25] Ellie's physical appearance was also redesigned throughout development to make her look more similar to Johnson.[27] The game's other characters also underwent changes. The character Tess was originally intended to be the main antagonist of The Last of Us, but the team found it difficult to believe her motives.[28] The sexuality of the character Bill was originally left vague in the script, but later altered to further reflect his homosexuality.[26]
+ 
+
+Argentinian musician Gustavo Santaolalla composed and performed the score for The Last of Us.[29]
+The Last of Us features an original score composed primarily by Gustavo Santaolalla, along with compositions by Andrew Buresh, Anthony Caruso, and Jonathan Mayer.[29] Known for his minimalist compositions, Santaolalla was contacted early in development. He used various instruments to compose the score, including some that he was unfamiliar with, giving a sense of danger and innocence.[3] This minimalist approach was also taken with the game's sound and art design. The sound of the Infected was one of the first tasks during development; the team experimented with the sound in order to achieve the best work possible. To achieve the sound of the Clicker, they hired voice actress Misty Lee, who provided a sound that audio lead Phillip Kovats described as originating in the "back of the throat".[30] The art department took various pieces of work as inspiration, such as Robert Polidori's photographs following Hurricane Katrina, which were used as a reference point when designing the flooded areas of Pittsburgh.[31] The art department were forced to negotiate for things that they wished to include, due to the strong differing opinions of the team during development. Ultimately, the team settled on a balance between simplicity and detail; while Straley and Druckmann preferred the former, the art team preferred the latter.[32] The game's opening credits were produced by Sony's San Diego Studio.[33]
+The team created new engines to satisfy their needs for the game. The artificial intelligence was created to coordinate with players;[34] the addition of Ellie as artificial intelligence was a major contributor to the engine.[35] The lighting engine was also re-created to incorporate soft light, in which the sunlight seeps in through spaces and reflects off surfaces.[34] The gameplay introduced difficulty to the team, as they felt that every mechanic required thorough analysis.[26] The game's user interface design also underwent various iterations throughout development.[36]
+The Last of Us was announced on December 10, 2011, at the Spike Video Game Awards,[37] alongside its debut trailer[38] and an official press release acknowledging some of the game's features.[2] The announcement ignited widespread anticipation within the gaming industry, which journalists owed to Naughty Dog's reputation.[39][40][41] The game missed its original projected release date of May 7, 2013, and was pushed to June 14, 2013 worldwide for further polishing.[42] To promote pre-order sales, Naughty Dog collaborated with several retailers to provide special editions of the game with extra content.[43]
+Additional content[edit]
+Downloadable content (DLC) for the game was released following its launch. The game's Season Pass includes access to all DLC, as well as some additional abilities, and the documentary Grounded: Making The Last of Us;[44] the documentary was released online in February 2014.[45] Two DLC packs were included with some of the game's special editions and were available upon release. The Sights and Sounds Pack included the soundtrack, a dynamic theme for the PlayStation 3 home screen, and two avatars. The Survival Pack featured bonus skins for the player following the completion of the campaign, and in-game money, as well as bonus experience points and early access to customizable items for the game's multiplayer.[46] Abandoned Territories Map Pack, released on October 15, 2013, added four new multiplayer maps, based on locations in the game's story.[47] Nightmare Bundle, released on November 5, 2013, added a collection of ten head items, nine of which are available to purchase separately.[48]
+The Last of Us: Left Behind adds a single-player campaign which serves as a prequel to the main storyline, featuring Ellie and her friend Riley. It was released on February 14, 2014 as DLC[49] and on May 12, 2015 as a standalone expansion pack.[50] A third bundle was released on May 6, 2014, featuring five separate DLC: Grounded added a new difficulty to the main game and Left Behind; Reclaimed Territories Map Pack added new multiplayer maps; Professional Survival Skills Bundle and Situational Survival Skills Bundle added eight new multiplayer skills; and Survivalist Weapon Bundle added four new weapons.[51] The Grit and Gear Bundle, which added new headgear items, masks and gestures, was released on August 5, 2014.[52] A Game of the Year Edition containing all downloadable content was released in Europe on November 11, 2014.[53]
+The Last of Us Remastered[edit]
+Main article: The Last of Us Remastered
+On April 9, 2014, Sony announced The Last of Us Remastered, an enhanced version of the game for the PlayStation 4. It was released on July 29, 2014 in North America.[54][a] Remastered features improved graphics and rendering upgrades, including increased draw distance, an upgraded combat mechanic, and higher frame rate.[57] Other enhancements include advanced audio options, an audio commentary, and a Photo Mode. It includes the previously released downloadable content, including Left Behind and some multiplayer maps.[58] The development team aimed to create a "true" remaster, maintaining the "core experience"[59] and major story and gameplay elements.[60]
+Reception[edit]
+Critical response[edit]
+Reception
+Aggregate score
+Aggregator
+Score
+Metacritic
+95/100[61]
+Review scores
+Publication
+Score
+CVG
+10/10[62]
+Edge
+10/10[63]
+Eurogamer
+10/10[64]
+Game Informer
+9.5/10[65]
+GameSpot
+8/10[66]
+IGN
+10/10[67]
+Joystiq
+[68]
+OPM (UK)
+10/10[69]
+Polygon
+7.5/10[70]
+The Last of Us received critical acclaim.[71] Metacritic calculated an average score of 95 out of 100, indicating "universal acclaim", based on 98 reviews.[61] It is the fifth-highest rated PlayStation 3 game on Metacritic.[b] Reviewers praised the character development, story and subtext, visual and sound design, and depiction of female and LGBT characters. The game is considered one of the most significant titles of the seventh generation of video games,[73] and has been included among the greatest video games of all time.[74] Colin Moriarty of IGN called The Last of Us "a masterpiece" and "PlayStation 3's best exclusive",[67] and Edge considered it "the most riveting, emotionally resonant story-driven epic" of the console generation.[63] Oli Welsh of Eurogamer wrote that it is "a beacon of hope" for the survival horror genre;[64] Andy Kelly of Computer and Video Games declared it "Naughty Dog's finest moment".[62]
+Kelly of Computer and Video Games found the story memorable,[62] and IGN's Moriarty named it one of the game's standout features.[67] PlayStation Official Magazine's David Meikleham wrote that the pacing contributed to the improvement of the story, stating that there is "a real sense of time elapsed and journey traveled along every step of the way",[69] and Destructoid's Jim Sterling lauded the game's suspenseful moments.[75] Richard Mitchell of Joystiq found that the narrative improved the character relationships.[68]
+The characters—particularly the relationship between Joel and Ellie—received acclaim. Matt Helgeson of Game Informer wrote that the relationship felt identifiable, naming it "poignant" and "well-drawn".[65] Eurogamer's Welsh wrote that the characters were developed with "real patience and skill", appreciating their emotional value,[64] and Joystiq's Mitchell found the relationship "genuine" and emotional.[68] PlayStation Official Magazine's Meikleham named Joel and Ellie the best characters of any PlayStation 3 game,[69] while IGN's Moriarty identified it as a highlight of the game.[67] Kelly of Computer and Video Games named the characters "richly painted", feeling invested in their stories.[62] Philip Kollar of Polygon felt that Ellie was believable, making it easier to develop a connection to her, and that the relationship between the characters was assisted by the game's optional conversations.[70] The character performances also received praise,[65][67][75] with Edge and Eurogamer's Welsh noting that the script improved as a result.[63][64]
+Many reviewers found the game's combat a refreshing difference from other games. Game Informer's Helgeson appreciated the vulnerability during fights,[65] while Kelly of Computer and Video Games enjoyed the variety in approaching the combat.[62] IGN's Moriarty felt that the crafting system assisted the combat, and that the latter contributed to the narrative's emotional value, adding that enemies feel "human".[67] Joystiq's Mitchell reiterated similar comments, stating that the combat "piles death upon death on Joel's hands".[68] Welsh of Eurogamer found the suspenseful and threatening encounters added positively to the gameplay.[64] Tom Mc Shea of GameSpot wrote that the artificial intelligence negatively affected the combat, with enemies often ignoring players' companions.[66] Polygon's Kollar felt that the combat was unfair, especially when fighting the Infected.[70]
+ 
+
+An artistic design of a location in the post-apocalyptic United States. Reviewers praised the design and layouts of the locations. The game's visual features, both artistic and graphic, were also well received.
+The game's visual features were commended by many reviewers. The art design was lauded as "outstanding" by Computer and Video Games' Kelly,[62] and "jaw-dropping" by Eurogamer's Welsh.[64] Mc Shea of GameSpot identified the visual representation of the post-apocalyptic world was "mundane", having been portrayed various times previously.[66] The game's graphics have been frequently named by critics as the best for a PlayStation 3 game, with Helgeson of Game Informer naming them "unmatched in console gaming"[65] and Moriarty of IGN stating that they contribute to the realism.[67] Destructoid's Sterling wrote that game was visually impressive but that technical issues, such as some "muddy and basic" textures found early in the game, left a negative impact on the visuals.[75]
+The world and environments of the game drew acclaim from many reviewers. Kelly of Computer and Video Games stated that the environments are "large, detailed, and littered with secrets", adding that The Last of Us "masks" its linearity successfully.[62] Edge repeated similar remarks, writing that the level design serves the story appropriately.[63] Helgeson of Game Informer wrote that the world "effectively and gorgeously [conveys] the loneliness" of the story.[65] IGN's Moriarty appreciated the added design elements placed around the game world, such as the hidden notes and letters.[67]
+Reviewers praised the use of sound in The Last of Us. Eurogamer's Welsh felt that the sound design was significantly better than in other games,[64] while Game Informer's Helgeson dubbed it "amazing".[65] Mc Shea of GameSpot stated that the audio added to the effect of the gameplay, particularly when hiding from enemies.[66] Kelly of Computer and Video Games found that the environmental audio positively impacted gameplay, and that Gustavo Santaolalla's score was "sparse and delicate".[62] Both Game Informer's Helgeson and Destructoid's Sterling called the score "haunting",[65] with the latter finding that it complements the gameplay.[75]
+The graphic depiction of violence in The Last of Us generated substantial commentary from critics. Engadget writer Ben Gilbert found the game's persistent focus on combat was "a necessary evil to lead the game's fragile protagonist duo to safety", as opposed to being used as a method to achieve objectives.[76] Kotaku's Kirk Hamilton wrote that the violence was "heavy, consequential and necessary", as opposed to gratuitous.[1] USGamer's Anthony John Agnello wrote that the game consistently reinforces the negativity associated with violence, intentionally making players feel uncomfortable while in violent combat. He stated that the deaths within the game were not unnecessary or unjustified, making the story more powerful.[77] Kelly of Computer and Video Games stated that, despite the "incredibly brutal" combat, the violence never felt gratuitous.[62] Eurogamer's Welsh echoed similar remarks, stating that the violence is not "desensitized or mindless".[64] Matt Helgeson of Game Informer observed that the game's violence leads to players questioning the morality of their choices.[65] Joystiq's Mitchell wrote that the violence is "designed to be uncomfortable", stating that it contributes to Joel's character.[68] Prior to the release of the game, Keith Stuart of The Guardian wrote that the acceptability of the violence would depend on its context within the game.[78]
+Many critics discussed the game's depiction of female characters. Jason Killingsworth of Edge praised its lack of sexualized female characters, writing that it "offers a refreshing antidote to the sexism and regressive gender attitudes of most blockbuster videogames".[79] Eurogamer's Ellie Gibson praised Ellie as "sometimes strong, sometimes vulnerable, but never a cliché".[80] She felt that Ellie is initially established as a "damsel in distress", but that this concept is subverted.[80] GameSpot's Carolyn Petit praised the female characters as morally conflicted and sympathetic, but wrote that gender in video games should be evaluated "based on their actual merits, not in relation to other games".[81] Chris Suellentrop of The New York Times acknowledged that Ellie was a likable and "sometimes powerful" character, but argued that The Last of Us is "actually the story of Joel", stating that it's "another video game by men, for men and about men".[82] The Last of Us was also praised for its depiction of LGBT characters. Sam Einhorn of GayGamer.net felt that the revelation of Bill's sexuality "added to his character ... without really tokenizing him".[83] American organization GLAAD named Bill one of the "most intriguing new LGBT characters of 2013", calling him "deeply flawed but wholly unique".[84] A kiss between two female characters in Left Behind was met with positive reactions.[85][86]

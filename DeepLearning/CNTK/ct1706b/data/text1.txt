@@ -38,3 +38,770 @@ Section 1.10.33 du "De Finibus Bonorum et Malorum" de Ciceron (45 av. J.-C.)
 Traduction de H. Rackham (1914)
 "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains."
 Français - Anthony Nelzin - www.pixelpixel.fr
+
+from wikipedia
+
+Microsoft
+From Wikipedia, the free encyclopedia
+Microsoft A square divided into four sub-squares, colored red, green, yellow and blue (clockwise), with the company name appearing to its right.
+Microsoft building 17 front door.jpg
+Front lobby entrance of building 17 on Microsoft's main campus in Redmond, Washington
+Type
+	Public
+Traded as 	
+
+    NASDAQ: MSFT
+    NASDAQ-100 Component
+    DJIA Component
+    S&P 100 Component
+    S&P 500 Component
+
+ISIN 	US5949181045
+Industry 	Computer software
+Computer hardware
+Consumer electronics
+Digital distribution
+Founded 	April 4, 1975; 42 years ago
+Albuquerque, New Mexico, U.S.
+Founders 	Bill Gates
+Paul Allen
+Headquarters 	Microsoft Redmond campus, Redmond, Washington, U.S.
+Area served
+	Worldwide
+Key people
+	
+
+    Chairman: John Thompson
+    President: Brad Smith[1]
+    CEO: Satya Nadella
+    Technology advisor: Bill Gates
+
+Products 	
+
+    Windows Office Servers Skype Visual Studio Dynamics Xbox Surface Mobile more... 
+
+Services 	
+
+    Azure Bing LinkedIn MSDN Office 365 OneDrive Outlook.com TechNet Wallet Windows Store Windows Update Xbox Live 
+
+Revenue 	Decrease US$85.32 billion (2016)[2]
+Operating income
+	Increase US$19.86 billion (2016)[2]
+Net income
+	Increase US$16.79 billion (2016)[2]
+Total assets 	Increase US$193.69 billion (2016)[2]
+Total equity 	Decrease US$71.99 billion (2016)[2]
+Owner 	Bill Gates (3%)[3]
+Number of employees
+	114,000 (June 30, 2016)[4]
+Subsidiaries 	List of Microsoft subsidiaries
+Website 	www.microsoft.com
+
+Microsoft Corporation (/ˈmaɪkrəˌsɒft, -roʊ-, -ˌsɔːft/,[5][6] abbreviated as MS) is an American multinational technology company headquartered in Redmond, Washington. It develops, manufactures, licenses, supports and sells computer software, consumer electronics, personal computers, and services. Its best known software products are the Microsoft Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface tablet lineup. As of 2016, it is the world's largest software maker by revenue,[7] and one of the world's most valuable companies.[8]
+
+Microsoft was founded by Paul Allen and Bill Gates on April 4, 1975, to develop and sell BASIC interpreters for the Altair 8800. It rose to dominate the personal computer operating system market with MS-DOS in the mid-1980s, followed by Microsoft Windows. The company's 1986 initial public offering (IPO), and subsequent rise in its share price, created three billionaires and an estimated 12,000 millionaires among Microsoft employees. Since the 1990s, it has increasingly diversified from the operating system market and has made a number of corporate acquisitions. In May 2011, Microsoft acquired Skype Technologies for $8.5 billion,[9] and in December 2016 bought LinkedIn for $26.2 billion.[10]
+
+As of 2015, Microsoft is market-dominant in the IBM PC-compatible operating system market and the office software suite market, although it has lost the majority of the overall operating system market to Android.[11] The company also produces a wide range of other software for desktops and servers, and is active in areas including Internet search (with Bing), the video game industry (with the Xbox series of consoles, and games such as Minecraft), the digital services market (through MSN), and mobile phones (primarily through the Windows Phone OS). In June 2012, Microsoft entered the personal computer production market for the first time, with the launch of the Microsoft Surface, a line of tablet computers. Forming Microsoft Mobile through the acquisition of Nokia's devices and services division, the company re-entered the smartphone hardware market. Its previous attempt, Microsoft Kin, resulting from their acquisition of Danger Inc., had failed commerically.[12]
+
+The word "Microsoft" is a portmanteau of "microcomputer" and "software".[13]
+
+Contents
+
+    1 History
+        1.1 1972–1985: The founding of Microsoft
+        1.2 1985–1994: Windows and Office
+        1.3 1995–2007: Foray into the Web, Windows 95, Windows XP, and Xbox
+        1.4 2007–2011: Microsoft Azure, Windows 7, and Microsoft Stores
+        1.5 2011–2014: Windows 8, Outlook.com, and Surface devices
+        1.6 2014–present: Windows 10 and HoloLens
+    2 Businesses
+        2.1 Windows and devices division
+        2.2 Cloud and Enterprise division
+        2.3 Office Product division
+        2.4 AI and Research division
+        2.5 Future Decoded
+    3 Corporate affairs
+        3.1 Board of Directors
+        3.2 Financial
+        3.3 Marketing
+        3.4 Layoffs
+        3.5 United States government
+    4 Corporate identity
+        4.1 Corporate culture
+        4.2 Environment
+        4.3 Headquarters
+        4.4 Flagship stores
+        4.5 Logo
+        4.6 Sponsorship
+    5 See also
+    6 References
+    7 External links
+
+History
+Main articles: History of Microsoft, History of Microsoft Windows, and Timeline of Microsoft
+1972–1985: The founding of Microsoft
+Paul Allen and Bill Gates pose for the camera on October 19, 1981, in a sea of PCs after signing a pivotal contract with IBM.[14]:228
+
+Childhood friends Paul Allen and Bill Gates sought to make a successful business utilizing their shared skills in computer programming.[15] In 1972 they founded their first company, named Traf-O-Data, which solda rudimentary computer that tracked and analyzed automobile traffic data. While Gates enrolled at Harvard, Allen went on to pursue a degree in computer science at Washington State University, though he later dropped out of school to work at Honeywell. [16] The January 1975 issue of Popular Electronics featured Micro Instrumentation and Telemetry Systems's (MITS) Altair 8800 microcomputer,[17] which inspired Allen to suggest that they could program a BASIC interpreter for the device. After a call from Gates claiming to have a working interpreter, MITS requested a demonstration. Since they didn't yet have one, Allen worked on a simulator for the Altair while Gates developed the interpreter. Although they developed the interpreter on a simulator and not the actual device, it worked flawlessly when they (in March 1975) demonstrated the interpreter to MITS in Albuquerque, New Mexico. MITS agreed to distribute it, marketing it as Altair BASIC.[14]:108, 112–114 Gates and Allen officially established Microsoft on April 4, 1975, with Gates as the CEO.[18] The original name of "Micro-Soft" was suggested by Allen.[19][20] In August 1977 the company formed an agreement with ASCII Magazine in Japan, resulting in its first international office, "ASCII Microsoft".[21] Microsoft moved to a new home in Bellevue, Washington in January 1979.[18]
+
+Microsoft entered the OS business in 1980 with its own version of Unix, called Xenix.[22] However, it was MS-DOS that solidified the company's dominance. After negotiations with Digital Research failed, IBM awarded a contract to Microsoft in November 1980 to provide a version of the CP/M OS, which was set to be used in the upcoming IBM Personal Computer (IBM PC).[23] For this deal, Microsoft purchased a CP/M clone called 86-DOS from Seattle Computer Products, branding it as MS-DOS, which IBM rebranded to PC DOS. Following the release of the IBM PC in August 1981, Microsoft retained ownership of MS-DOS. Since IBM copyrighted the IBM PC BIOS, other companies had to reverse engineer it in order for non-IBM hardware to run as IBM PC compatibles, but no such restriction applied to the operating systems. Due to various factors, such as MS-DOS's available software selection, Microsoft eventually became the leading PC operating systems vendor.[24][25]:210 The company expanded into new markets with the release of the Microsoft Mouse in 1983, as well as with a publishing division named Microsoft Press.[14]:232 Paul Allen resigned from Microsoft in 1983 after developing Hodgkin's disease.
+1985–1994: Windows and Office
+Windows 1.0 was released on November 20, 1985 as the first version of the Microsoft Windows line
+Timeline of Windows
+
+While jointly developing a new OS with IBM in 1984 (that is, OS/2), Microsoft released Microsoft Windows, a graphical extension for MS-DOS, on November 20, 1985.[14]:242–243, 246 Microsoft moved its headquarters to Redmond on February 26, 1986, and on March 13 the company went public;[26] the ensuing rise in the stock would make an estimated four billionaires and 12,000 millionaires from Microsoft employees.[27] Due to the partnership with IBM, in 1990 the Federal Trade Commission set its eye on Microsoft for possible collusion; it marked the beginning of over a decade of legal clashes with the U.S. government.[28] Microsoft released its version of OS/2 to original equipment manufacturers (OEMs) on April 2, 1987;[14]:243–244 meanwhile, the company was at work on a 32-bit OS, Microsoft Windows NT, using ideas from OS/2; it shipped on July 21, 1993, with a new modular kernel and the Win32 application programming interface (API), making porting from 16-bit (MS-DOS-based) Windows easier. Once Microsoft informed IBM of NT, the OS/2 partnership deteriorated.[29]
+
+In 1990, Microsoft introduced its office suite, Microsoft Office. The software bundled separate office productivity applications, such as Microsoft Word and Microsoft Excel.[14]:301 On May 22 Microsoft launched Windows 3.0 with a streamlined user interface graphics and improved protected mode capability for the Intel 386 processor.[30] Both Office and Windows became dominant in their respective areas.[31][32] Novell, a Word competitor from 1984–1986, filed a lawsuit years later claiming that Microsoft left part of its APIs undocumented in order to gain a competitive advantage.[33]
+
+On July 27, 1994, the U.S. Department of Justice, Antitrust Division filed a Competitive Impact Statement that said, in part: "Beginning in 1988, and continuing until July 15, 1994, Microsoft induced many OEMs to execute anti-competitive "per processor" licenses. Under a per processor license, an OEM pays Microsoft a royalty for each computer it sells containing a particular microprocessor, whether the OEM sells the computer with a Microsoft operating system or a non-Microsoft operating system. In effect, the royalty payment to Microsoft when no Microsoft product is being used acts as a penalty, or tax, on the OEM's use of a competing PC operating system. Since 1988, Microsoft's use of per processor licenses has increased."[34]
+1995–2007: Foray into the Web, Windows 95, Windows XP, and Xbox
+Microsoft released the first installment in the Xbox series of consoles in 2001. The Xbox, graphically powerful compared to its rivals, featured a standard PC's 733 MHz Intel Pentium III processor.
+
+Following Bill Gates's internal "Internet Tidal Wave memo" on May 26, 1995, Microsoft began to redefine its offerings and expand its product line into computer networking and the World Wide Web.[35] The company released Windows 95 on August 24, 1995, featuring pre-emptive multitasking, a completely new user interface with a novel start button, and 32-bit compatibility; similar to NT, it provided the Win32 API.[36][37]:20 Windows 95 came bundled with the online service MSN (which was at first intended to be a competitor to the Internet), and for OEMs Internet Explorer, a web browser. Internet Explorer was not bundled with the retail Windows 95 boxes because the boxes were printed before the team finished the web browser, and instead was included in the Windows 95 Plus! pack.[38] Branching out into new markets in 1996, Microsoft and NBC Universal created a new 24/7 cable news station, MSNBC.[39] Microsoft created Windows CE 1.0, a new OS designed for devices with low memory and other constraints, such as personal digital assistants.[40] In October 1997, the Justice Department filed a motion in the Federal District Court, stating that Microsoft violated an agreement signed in 1994 and asked the court to stop the bundling of Internet Explorer with Windows.[14]:323–324
+In 1996, Microsoft released Windows CE, a version of the operating system meant for personal digital assistants and other tiny computers.
+
+Bill Gates handed over the CEO position on January 13, 2000, to Steve Ballmer, an old college friend of Gates and employee of the company since 1980, creating a new position for himself as Chief Software Architect.[14]:111, 228[18] Various companies including Microsoft formed the Trusted Computing Platform Alliance in October 1999 to, among other things, increase security and protect intellectual property through identifying changes in hardware and software. Critics decry the alliance as a way to enforce indiscriminate restrictions over how consumers use software, and over how computers behave, a form of digital rights management; for example the scenario where a computer is not only secured for its owner, but also secured against its owner as well.[41][42] On April 3, 2000, a judgment was handed down in the case of United States v. Microsoft,[43] calling the company an "abusive monopoly";[44] it settled with the U.S. Department of Justice in 2004.[26] On October 25, 2001, Microsoft released Windows XP, unifying the mainstream and NT lines under the NT codebase.[45] The company released the Xbox later that year, entering the game console market dominated by Sony and Nintendo.[46] In March 2004 the European Union brought antitrust legal action against the company, citing it abused its dominance with the Windows OS, resulting in a judgment of €497 million ($613 million) and to produce new versions of Windows XP without Windows Media Player, Windows XP Home Edition N and Windows XP Professional N.[47][48]
+2007–2011: Microsoft Azure, Windows 7, and Microsoft Stores
+CEO Steve Ballmer at the MIX event in 2008. In an interview about his management style in 2005, he mentioned that his first priority was to get the people he delegates to in order. Ballmer also emphasized the need to continue pursuing new technologies even if initial attempts fail, citing the original attempts with Windows as an example.[49]
+
+Released in January 2007, the next version of Windows, Windows Vista, focused on features, security and a redesigned user interface dubbed Aero.[50][51] Microsoft Office 2007, released at the same time, featured a "Ribbon" user interface which was a significant departure from its predecessors. Relatively strong sales of both titles helped to produce a record profit in 2007.[52] The European Union imposed another fine of €899 million ($1.4 billion) for Microsoft's lack of compliance with the March 2004 judgment on February 27, 2008, saying that the company charged rivals unreasonable prices for key information about its workgroup and backoffice servers. Microsoft stated that it was in compliance and that "these fines are about the past issues that have been resolved".[53] 2007 also saw the creation of a multi-core unit at Microsoft, as they followed in the steps of server companies such as Sun and IBM.[54]
+
+Gates retired from his role as Chief Software Architect on June 27, 2008, a decision announced in June 2006, while retaining other positions related to the company in addition to being an advisor for the company on key projects.[55][56] Azure Services Platform, the company's entry into the cloud computing market for Windows, launched on October 27, 2008.[57] On February 12, 2009, Microsoft announced its intent to open a chain of Microsoft-branded retail stores, and on October 22, 2009, the first retail Microsoft Store opened in Scottsdale, Arizona; the same day the first store opened, Windows 7 was officially released to the public. Windows 7's focus was on refining Vista with ease of use features and performance enhancements, rather than a large reworking of Windows.[58][59][60]
+
+As the smartphone industry boomed beginning in 2007, Microsoft struggled to keep up with its rivals Apple and Google in providing a modern smartphone operating system. As a result, in 2010, Microsoft revamped their aging flagship mobile operating system, Windows Mobile, replacing it with the new Windows Phone OS; along with a new strategy in the smartphone industry that had Microsoft working more closely with smartphone manufacturers, such as Nokia, and to provide a consistent user experience across all smartphones using Microsoft's Windows Phone OS. It used a new user interface design language, codenamed "Metro", which prominently used simple shapes, typography and iconography, and the concept of minimalism. Microsoft is a founding member of the Open Networking Foundation started on March 23, 2011. Other founding companies include Google, HP Networking, Yahoo, Verizon, Deutsche Telekom and 17 other companies. The nonprofit organization is focused on providing support for a new cloud computing initiative called Software-Defined Networking.[61] The initiative is meant to speed innovation through simple software changes in telecommunications networks, wireless networks, data centers and other networking areas.[62]
+2011–2014: Windows 8, Outlook.com, and Surface devices
+Start screen on Windows 8.1
+Surface Pro 3, part of the Surface series of laplets by Microsoft
+Xbox One console
+Xbox Kinect sensor
+
+Following the release of Windows Phone, Microsoft underwent a gradual rebranding of its product range throughout 2011 and 2012—the corporation's logos, products, services and websites adopted the principles and concepts of the Metro design language.[63] Microsoft previewed Windows 8, an operating system designed to power both personal computers and tablet computers, in Taipei in June 2011.[64] A developer preview was released on September 13, and was replaced by a consumer preview on February 29, 2012.[65] On May 31, 2012, the preview version was released. On June 18, 2012, Microsoft unveiled the Surface, the first computer in the company's history to have its hardware made by Microsoft.[66][67] On June 25, Microsoft paid US$1.2 billion to buy the social network Yammer.[68] On July 31, 2012, Microsoft launched the Outlook.com webmail service to compete with Gmail.[69] On September 4, 2012, Microsoft released Windows Server 2012.[70]
+
+In July 2012, Microsoft sold its 50% stake in MSNBC.com, which it had run as a joint venture with NBC since 1996.[71] On October 1, Microsoft announced its intention to launch a news operation, part of a new-look MSN, at the time of the Windows 8 launch that was later in the month.[72] On October 26, 2012, Microsoft launched Windows 8 and the Microsoft Surface.[67][73] Three days later, Windows Phone 8 was launched.[74] To cope with the potential for an increase in demand for products and services, Microsoft opened a number of "holiday stores" across the U.S. to complement the increasing number of "bricks-and-mortar" Microsoft Stores that opened in 2012.[75] On March 29, 2013, Microsoft launched a Patent Tracker.[76]
+
+The Kinect, a motion-sensing input device made by Microsoft and designed as a video game controller, which was first introduced in November 2010, was upgraded for the 2013 release of the eighth-generation Xbox One video game console. Kinect's capabilities were revealed in May 2013. The new Kinect uses an ultra-wide 1080p camera, it can function in the dark due to an infrared sensor, it employs higher-end processing power and new software, it can distinguish between fine movements (such as a thumb movements), and the device can determine a user's heart rate by looking at his/her face.[77] Microsoft filed a patent application in 2011 that suggests that the corporation may use the Kinect camera system to monitor the behavior of television viewers as part of a plan to make the viewing experience more interactive. On July 19, 2013, Microsoft stocks suffered its biggest one-day percentage sell-off since the year 2000 after its fourth-quarter report raised concerns among the investors on the poor showings of both Windows 8 and the Surface tablet; with more than 11 percentage points declining Microsoft suffered a loss of more than US$32 billion.[78] For the 2010 fiscal year, Microsoft had five product divisions: Windows Division, Server and Tools, Online Services Division, Microsoft Business Division and Entertainment and Devices Division.
+
+On September 3, 2013, Microsoft agreed to buy Nokia's mobile unit for $7 billion.[79] Also in 2013, Amy Hood became the CFO of Microsoft.[80] The Alliance for Affordable Internet (A4AI) was launched in October 2013 and Microsoft was part of the coalition of public and private organizations that also included Facebook, Intel and Google. Led by World Wide Web inventor Tim Berners-Lee, the A4AI seeks to make Internet access more affordable so that access is broadened in the developing world, where only 31% of people are online. Google will help to decrease Internet access prices so that they fall below the UN Broadband Commission's worldwide target of 5% of monthly income.[81] In line with the maturing PC business, in July 2013, Microsoft announced that it would reorganize the business into four new business divisions by function: Operating System, Apps, Cloud and Devices. All previous divisions will be diluted into new divisions without any workforce cut.[82]
+2014–present: Windows 10 and HoloLens
+John W. Thompson has been appointed the chairman of Microsoft, taking over from Bill Gates.
+
+Corporate affairs
+
+On February 4, 2014, Steve Ballmer stepped down as CEO of Microsoft and was succeeded by Satya Nadella, who previously led Microsoft's Cloud and Enterprise division.[83] On the same day, John W. Thompson took on the role of chairman, with Bill Gates stepping down from the position, while continuing to participate as a technology advisor.[84]
+
+On April 25, 2014, Microsoft acquired Nokia Devices and Services for $7.2 billion.[85] The new subsidiary was renamed Microsoft Mobile Oy.[86] In May 2016, the company announced it will lay off 1,850 workers, taking an impairment and restructuring charge of $950 million. During the previous summer of 2015 the company wrote down $7.6 billion related to its mobile-phone business and fired 7,800 employees from those operations.[87]
+
+On September 15, 2014, Microsoft acquired the video game development company Mojang, best known for its wildly popular flagship game Minecraft, for $2.5 billion.[88]
+
+On June 8, 2017, Microsoft acquired Hexadite, an Israeli security firm, for $100 million.[89][90]
+
+Products
+
+On January 21, 2015, Microsoft announced the release of their first Interactive whiteboard, Microsoft Surface Hub (part of the Surface family).[91] On July 29, 2015, Microsoft released the next version of the Windows operating system, Windows 10.[92] Its server sibling, Windows Server 2016, was released in September 2016.
+
+In Q1 2015, Microsoft was the third largest maker of mobile phones selling 33 million units (7.2% of all), while a large majority (at least 75%) of them do not run any version of Windows Phone – those other phones are not categorized as smartphones by Gartner – in the same time frame 8 million Windows smartphones (2.5% of all smartphones) were made by all manufacturers (but mostly by Microsoft).[93] Microsoft's share of the U.S. smartphone market in January 2016 was 2.7%.[94]
+
+On March 1, 2016, Microsoft announced the merger of its PC and Xbox divisions, with Phil Spencer announcing that Universal Windows Applications would be the focus for Microsoft's gaming in the future.[95]
+
+On January 24, 2017, Microsoft showcased Intune for Education at the BETT 2017 education technology conference in London.[96] Intune for Education is a new cloud-based application and device management service for the education sector.[97] Microsoft will launch a preview of Intune for Education "in the coming weeks", with general availability scheduled for spring 2017, priced at $30 per device, or through volume licensing agreements.[98]
+
+Services
+
+In June 2016, Microsoft announced a project named, Microsoft Azure Information Protection. It aims to help enterprises protect their data as it moves between servers and devices.[99]
+
+In November 2016, Microsoft has joined the Linux Foundation as a Platinum member during Microsoft’s Connect(); developer event in New York.[100] The price of each Platinum membership is US$500,000 per year.[101]
+Businesses
+[icon] 	This section needs expansion. You can help by adding to it. (June 2017)
+See also: Microsoft engineering groups
+Toronto Microsoft Store
+Microsoft Talo, the headquarters of Microsoft Mobile
+Windows and devices division
+Main articles: Microsoft Windows, Microsoft Mobile, Microsoft hardware, and Microsoft Servers
+
+Windows and devices division produces the flagship operating system, the Windows. It also produces the Windows Live family of products and services. It also produces the game console operating system, Xbox One system software. It is also responsible for development of devices such as Microsoft Surface, a series of touchscreen Windows personal computers and interactive whiteboards, Microsoft HoloLens, a set of virtual reality smartglasses and Xbox, a home gaming console as well as various accessories such as mice, keyboards, webcams, headsets, game controllers and wireless display adapters. It is also responsible for designing of MSN web portal. It also produces various server products of Microsoft such as Windows Server, Exchange Server, Skype for Business Server, SQL Server and various others. Microsoft Press, which publishes books, is also managed by the division.
+Cloud and Enterprise division
+
+Cloud and Enterprise division produces company's cloud computing platform, Microsoft Azure. It also produces Microsoft Visual Studio, a set of programming tools and compilers. It also develops Microsoft Dynamics, a line of enterprise resource planning (ERP) and customer relationship management (CRM) software applications.
+Office Product division
+Main articles: Microsoft Office, Office Mobile, and Office Online
+
+This group produces various products of Microsoft Office family. It includes Microsoft Office, an office suite for Windows and MAC PCs, Office Mobile, a line of apps for smartphones and tablets and Office Online, a combination of Microsoft Office Web Apps (an online version of Microsoft Office's core apps) and various formerly Windows Live branded web services all connected via Microsoft accounts. It also designs Skype, an application that specializes in providing video chat and voice call services.
+AI and Research division
+
+AI and Research division is responsible for development of Bing, a web search engine (advertised as a "decision engine"[102]) from Microsoft. Microsoft Research was created with the intent to advance state of the art computing and solve difficult world problems through technological innovation in collaboration with academic, government, and industry researchers.
+Future Decoded
+
+Future Decoded is a business networking event held every year by Microsoft that allows business partners of the company to share their views on what the future holds for business, society, leadership and technology.
+Corporate affairs
+See also: Criticism of Microsoft
+Board of Directors
+
+The company is run by a board of directors made up of mostly company outsiders, as is customary for publicly traded companies. Members of the board of directors as of January 2016 are John W. Thompson, Bill Gates, Teri L. List-Stoll, Mason Morfit, Satya Nadella, Charles Noski, Helmut Panke, Sandi Peterson, Charles W. Scharf, John W. Stanton, and Padmasree Warrior.[103] Board members are elected every year at the annual shareholders' meeting using a majority vote system. There are five committees within the board which oversee more specific matters. These committees include the Audit Committee, which handles accounting issues with the company including auditing and reporting; the Compensation Committee, which approves compensation for the CEO and other employees of the company; the Finance Committee, which handles financial matters such as proposing mergers and acquisitions; the Governance and Nominating Committee, which handles various corporate matters including nomination of the board; and the Antitrust Compliance Committee, which attempts to prevent company practices from violating antitrust laws.[104]
+Financial
+Five year history graph of NASDAQ: MSFT stock on July 17, 2013[105]
+
+When Microsoft went public and launched its initial public offering (IPO) in 1986, the opening stock price was $21; after the trading day, the price closed at $27.75. As of July 2010, with the company's nine stock splits, any IPO shares would be multiplied by 288; if one were to buy the IPO today given the splits and other factors, it would cost about 9 cents.[14]:235–236[106][107] The stock price peaked in 1999 at around $119 ($60.928 adjusting for splits).[108] The company began to offer a dividend on January 16, 2003, starting at eight cents per share for the fiscal year followed by a dividend of sixteen cents per share the subsequent year, switching from yearly to quarterly dividends in 2005 with eight cents a share per quarter and a special one-time payout of three dollars per share for the second quarter of the fiscal year.[108][109] Though the company had subsequent increases in dividend payouts, the price of Microsoft's stock remained steady for years.[109][110]
+
+Standard and Poor's and Moody's have both given a AAA rating to Microsoft, whose assets were valued at $41 billion as compared to only $8.5 billion in unsecured debt. Consequently, in February 2011 Microsoft released a corporate bond amounting to $2.25 billion with relatively low borrowing rates compared to government bonds.[111] For the first time in 20 years Apple Inc. surpassed Microsoft in Q1 2011 quarterly profits and revenues due to a slowdown in PC sales and continuing huge losses in Microsoft's Online Services Division (which contains its search engine Bing). Microsoft profits were $5.2 billion, while Apple Inc. profits were $6 billion, on revenues of $14.5 billion and $24.7 billion respectively.[112] Microsoft's Online Services Division has been continuously loss-making since 2006 and in Q1 2011 it lost $726 million. This follows a loss of $2.5 billion for the year 2010.[113]
+
+On July 20, 2012, Microsoft posted its first quarterly loss ever, despite earning record revenues for the quarter and fiscal year, with a net loss of $492 million due to a writedown related to the advertising company aQuantive, which had been acquired for $6.2 billion back in 2007.[114] As of January 2014, Microsoft's market capitalization stood at $314B,[115] making it the 8th largest company in the world by market capitalization.[116] On November 14, 2014, Microsoft overtook Exxon Mobil to become the 2nd most valuable company by market capitalization, behind only Apple Inc. Its total market value was over $410B — with the stock price hitting $50.04 a share, the highest since early 2000.[117] In 2015, Reuters reported that Microsoft Corp had earnings abroad of $76.4 billion which were untaxed by the IRS. Under U.S. law corporations don't pay income tax on overseas profits until the profits are brought into the United States.[118]
+Marketing
+Windows 8 Launch Event in Akihabara, Tokyo on October 25, 2012
+
+In 2004, Microsoft commissioned research firms to do independent studies comparing the total cost of ownership (TCO) of Windows Server 2003 to Linux; the firms concluded that companies found Windows easier to administrate than Linux, thus those using Windows would administrate faster resulting in lower costs for their company (i.e. lower TCO).[119] This spurred a wave of related studies; a study by the Yankee Group concluded that upgrading from one version of Windows Server to another costs a fraction of the switching costs from Windows Server to Linux, although companies surveyed noted the increased security and reliability of Linux servers and concern about being locked into using Microsoft products.[120] Another study, released by the Open Source Development Labs, claimed that the Microsoft studies were "simply outdated and one-sided" and their survey concluded that the TCO of Linux was lower due to Linux administrators managing more servers on average and other reasons.[121]
+
+As part of the "Get the Facts" campaign, Microsoft highlighted the .NET trading platform that it had developed in partnership with Accenture for the London Stock Exchange, claiming that it provided "five nines" reliability. After suffering extended downtime and unreliability[122][123] the LSE announced in 2009 that it was planning to drop its Microsoft solution and switch to a Linux-based one in 2010.[124][125]
+
+In 2012, Microsoft hired a political pollster named Mark Penn, whom the New York Times called "famous for bulldozing" his political opponents[126] as Executive Vice-President, Advertising and Strategy. Penn created a series of negative ads targeting one of Microsoft's chief competitors, Google. The ads, called "Scroogled", attempt to make the case that Google is "screwing" consumers with search results rigged to favor Google's paid advertisers, that Gmail violates the privacy of its users to place ad results related to the content of their emails and shopping results which favor Google products. Tech publications like Tech Crunch have been highly critical of the ad campaign,[127] while Google employees have embraced it.[128]
+Layoffs
+Main article: Criticism of Microsoft
+
+In July 2014, Microsoft announced plans to lay off 18,000 employees. Microsoft employed 127,104 people as of June 5, 2014, making this about a 14 percent reduction of its workforce as the biggest Microsoft lay off ever. This included 12,500 professional and factory personnel. Previously, Microsoft has laid off 5,800 jobs in 2009 in line with US financial crisis.[129][130] In September 2014, Microsoft laid off 2,100 people, including 747 people in the Seattle-Redmond area, where the company is headquartered. The firings came as a second wave of the layoffs that were previously announced. This brings the total number to over 15,000 out of the 18,000 expected cuts.[131] In October 2014, Microsoft revealed that it was almost done with the elimination of 18,000 employees which was its largest ever layoff sweep.[132] In July 2015, Microsoft announced another 7,800 job cuts in the next several months.[133] In May 2016, Microsoft announced another 1,850 job cuts mostly in (Nokia) mobile phone division. As a result, the company will record an impairment and restructuring charge of approximately $950 million, of which approximately $200 million will relate to severance payments.[134]
+United States government
+Main article: Criticism of Microsoft
+
+Microsoft provides information about reported bugs in their software to intelligence agencies of the United States government, prior to the public release of the fix. A Microsoft spokesperson has stated that the corporation runs several programs that facilitate the sharing of such information with the U.S. government.[135] Following media reports about PRISM, NSA's massive electronic surveillance program, in May 2013, several technology companies were identified as participants, including Microsoft.[136] According to leaks of said program, Microsoft joined the PRISM program in 2007.[137] However, in June 2013, an official statement from Microsoft flatly denied their participation in the program:
+
+    We provide customer data only when we receive a legally binding order or subpoena to do so, and never on a voluntary basis. In addition we only ever comply with orders for requests about specific accounts or identifiers. If the government has a broader voluntary national security program to gather customer data, we don't participate in it.[138]
+
+During the first six months in 2013, Microsoft had received requests that affected between 15,000 and 15,999 accounts.[139] In December 2013, the company made statement to further emphasize the fact that they take their customers' privacy and data protection very seriously, even saying that "government snooping potentially now constitutes an "advanced persistent threat," alongside sophisticated malware and cyber attacks".[140] The statement also marked the beginning of three-part program to enhance Microsoft's encryption and transparency efforts. On July 1, 2014, as part of this program they opened the first (of many) Microsoft Transparency Center, that provides "participating governments with the ability to review source code for our key products, assure themselves of their software integrity, and confirm there are no "back doors."[141] Microsoft has also argued that the United States Congress should enact strong privacy regulations to protect consumer data.[142] In 2016, the company sued the U.S., arguing that secrecy orders were preventing the company from disclosing warrants to customers in violation of the company's and customers' rights.
+Corporate identity
+Corporate culture
+The Commons, located on the campus of the company's headquarters in Redmond
+
+Technical reference for developers and articles for various Microsoft magazines such as Microsoft Systems Journal (MSJ) are available through the Microsoft Developer Network (MSDN). MSDN also offers subscriptions for companies and individuals, and the more expensive subscriptions usually offer access to pre-release beta versions of Microsoft software.[143][144] In April 2004 Microsoft launched a community site for developers and users, titled Channel 9, that provides a wiki and an Internet forum.[145] Another community site that provides daily videocasts and other services, On10.net, launched on March 3, 2006.[146] Free technical support is traditionally provided through online Usenet newsgroups, and CompuServe in the past, monitored by Microsoft employees; there can be several newsgroups for a single product. Helpful people can be elected by peers or Microsoft employees for Microsoft Most Valuable Professional (MVP) status, which entitles them to a sort of special social status and possibilities for awards and other benefits.[147]
+
+Noted for its internal lexicon, the expression "eating our own dog food" is used to describe the policy of using pre-release and beta versions of products inside Microsoft in an effort to test them in "real-world" situations.[148] This is usually shortened to just "dog food" and is used as noun, verb, and adjective. Another bit of jargon, FYIFV or FYIV ("Fuck You, I'm [Fully] Vested"), is used by an employee to indicate they are financially independent and can avoid work anytime they wish.[149] The company is also known for its hiring process, mimicked in other organizations and dubbed the "Microsoft interview", which is notorious for off-the-wall questions such as "Why is a manhole cover round?".[150]
+
+Microsoft is an outspoken opponent of the cap on H1B visas, which allow companies in the U.S. to employ certain foreign workers. Bill Gates claims the cap on H1B visas makes it difficult to hire employees for the company, stating "I'd certainly get rid of the H1B cap" in 2005.[151] Critics of H1B visas argue that relaxing the limits would result in increased unemployment for U.S. citizens due to H1B workers working for lower salaries.[152] The Human Rights Campaign Corporate Equality Index, a report of how progressive the organization deems company policies towards LGBT (lesbian, gay, bisexual and transsexual) employees, rated Microsoft as 87% from 2002 to 2004 and as 100% from 2005 to 2010 after they allowed gender expression.[153]
+Environment
+
+In 2011, Greenpeace released a report rating the top ten big brands in cloud computing on their sources of electricity for their data centers. At the time, data centers consumed up to 2% of all global electricity and this amount was projected to increase. Phil Radford of Greenpeace said "we are concerned that this new explosion in electricity use could lock us into old, polluting energy sources instead of the clean energy available today,"[154] and called on "Amazon, Microsoft and other leaders of the information-technology industry must embrace clean energy to power their cloud-based data centers."[155] In 2013, Microsoft agreed to buy power generated by a Texas wind project to power one of its data centers.[156] Microsoft is ranked on the 17th place in Greenpeace's Guide to Greener Electronics (16th Edition) that ranks 18 electronics manufacturers according to their policies on toxic chemicals, recycling and climate change.[157] Microsoft's timeline for phasing out brominated flame retardant (BFRs) and phthalates in all products is 2012 but its commitment to phasing out PVC is not clear. As of January 2011, it has no products that are completely free from PVC and BFRs.[158]
+
+Microsoft's main U.S. campus received a silver certification from the Leadership in Energy and Environmental Design (LEED) program in 2008, and it installed over 2,000 solar panels on top of its buildings in its Silicon Valley campus, generating approximately 15 percent of the total energy needed by the facilities in April 2005.[159] Microsoft makes use of alternative forms of transit. It created one of the world's largest private bus systems, the "Connector", to transport people from outside the company; for on-campus transportation, the "Shuttle Connect" uses a large fleet of hybrid cars to save fuel. The company also subsidises regional public transport, provided by Sound Transit and King County Metro, as an incentive.[159][160] In February 2010 however, Microsoft took a stance against adding additional public transport and high-occupancy vehicle (HOV) lanes to the State Route 520 and its floating bridge connecting Redmond to Seattle; the company did not want to delay the construction any further.[161] Microsoft was ranked number 1 in the list of the World's Best Multinational Workplaces by the Great Place to Work Institute in 2011.[162]
+Headquarters
+Microsoft European HQ – Paris
+
+The corporate headquarters, informally known as the Microsoft Redmond campus, is located at One Microsoft Way in Redmond, Washington. Microsoft initially moved onto the grounds of the campus on February 26, 1986, weeks before the company went public on March 13. The headquarters has since experienced multiple expansions since its establishment. It is estimated to encompass over 8 million ft2 (750,000 m2) of office space and 30,000–40,000 employees.[163] Additional offices are located in Bellevue and Issaquah (90,000 employees worldwide). The company is planning to upgrade its Mountain View, California campus on a grand scale. The company has occupied this campus since 1981. The company is planning to buy the 32-acre campus.[164] The plans submitted involve expanding the campus by 25%. It is expected that it will take three years to complete the expansion. If approved, construction will start in early 2017.[164] Microsoft operates an East Coast headquarters in Charlotte, North Carolina.[165]
+Flagship stores
+
+On October 26, 2015, the company opened its flagship retail location on Fifth Avenue in New York City. The location features a five-story glass storefront and is 22,270 square feet.[166] As per company executives, Microsoft had been on the lookout for a flagship location since 2009.[167] The company's retail locations are part of a greater strategy to help build a connection with its consumers. The opening of the store coincided with the launch of the Surface Book and Surface Pro 4.[168] Notably, the second floor has a large area designated for consumers to play Xbox games. The third floor has been named the "Dell Experience at the Microsoft Store," which showcases various Dell products. The fourth floor is for employees and administrative operations. The fifth floor has been designed as a pseudo-conference center, as it will hold events and meetings.[167] On November 12, 2015, Microsoft opened a second flagship store, located in Sydney's Pitt Street Mall.[169] The two-storey, 6000 sq ft location features Microsoft's flagship products including the Surface line and Xbox One, there is also an Answer Desk on site for customers to get product support.[170]
+Logo
+
+Microsoft adopted the so-called "Pac-Man Logo", designed by Scott Baker, in 1987. Baker stated "The new logo, in Helvetica italic typeface, has a slash between the o and s to emphasize the "soft" part of the name and convey motion and speed."[171] Dave Norris ran an internal joke campaign to save the old logo, which was green, in all uppercase, and featured a fanciful letter O, nicknamed the blibbet, but it was discarded.[172] Microsoft's logo with the tagline "Your potential. Our passion." – below the main corporate name – is based on a slogan Microsoft used in 2008. In 2002, the company started using the logo in the United States and eventually started a television campaign with the slogan, changed from the previous tagline of "Where do you want to go today?"[173][174][175] During the private MGX (Microsoft Global Exchange) conference in 2010, Microsoft unveiled the company's next tagline, "Be What's Next."[176] They also had a slogan/tagline "Making it all make sense."[177]
+
+On August 23, 2012, Microsoft unveiled a new corporate logo at the opening of its 23rd Microsoft store in Boston, indicating the company's shift of focus from the classic style to the tile-centric modern interface, which it uses/will use on the Windows Phone platform, Xbox 360, Windows 8 and the upcoming Office Suites.[178] The new logo also includes four squares with the colors of the then-current Windows logo which have been used to represent Microsoft's four major products: Windows (blue), Office (red), Xbox (green) and Bing (yellow).[179] The logo resembles the opening of one of the commercials for Windows 95.[180][181]
+
+
+
+Deep learning
+From Wikipedia, the free encyclopedia
+	This article may contain an excessive amount of intricate detail that may only interest a specific audience. Specifically, about at 300+ citations – a lot of which spammy – this article should be trimmed, and replaced with a short summary and link to survey literature instead of pretending to list every single incremental paper ever written on this topic... this is too much, get to the point.. Please help by spinning off or relocating any relevant information, and removing excessive detail that may be against Wikipedia's inclusion policy. (May 2017) (Learn how and when to remove this template message)
+For deep versus shallow learning in educational psychology, see Student approaches to learning.
+Machine learning and
+data mining
+Kernel Machine.svg
+Problems
+[show]
+Supervised learning
+(classification • regression)
+[show]
+Clustering
+[show]
+Dimensionality reduction
+[show]
+Structured prediction
+[show]
+Anomaly detection
+[show]
+Neural nets
+[show]
+Reinforcement Learning
+[show]
+Theory
+[show]
+Machine learning venues
+[show]
+
+    Portal-puzzle.svg Machine learning portal
+
+    v t e 
+
+Deep learning (also known as deep structured learning or hierarchical learning) is the use of artificial neural networks that contain more than one hidden layer. One fundamental principle of deep learning is to do away with hand-crafted feature engineering and to use raw features.
+
+These nets[1] use a cascade of layers of nonlinear processing units. Each layer uses the output from the previous layer as input. The nets learn multiple levels of representations that correspond to different levels of abstraction; the levels form a hierarchy of concepts.
+
+A simple case might involve two sets of neurons: one to receive an input signal and one that sends an output signal. When the input layer receives an input, it passes on a modified version of the input to the next layer. In a deep network, many layers separate the input and the output, allowing the algorithm to use multiple processing layers, composed of multiple linear and non-linear transformations.[2][3][4][5][6][7][8][9][10]
+
+Deep learning is part of a broader family of machine learning methods based on learning data representations. An observation (e.g., an image) can be represented in many ways, eg., as a vector of intensity values per pixel, or in a more abstract way as a set of edges, regions of particular shape, etc. Some representations are better than others at simplifying a specific task (e.g., face recognition or facial expression recognition[11]). One potential is to replace explicit features with generic algorithms for unsupervised or semi-supervised feature learning and hierarchical feature extraction.[12]
+
+Research in this area attempts to create models to learn these representations from large-scale, unlabeled data. Some representations are inspired by advances in neuroscience and are loosely based on interpretation of information processing and communication patterns in a biological nervous system, such as neural coding that attempts to define a relationship between various stimuli and associated neuronal responses in the brain.[13]
+
+Various deep learning architectures such as deep neural networks, convolutional deep neural networks, deep belief networks and recurrent neural networks have been applied to fields including computer vision, automatic speech recognition, natural language processing, audio recognition and bioinformatics where they produced results comparable to and in some cases superior to human experts.[14]
+Contents
+
+    1 Introduction
+        1.1 Definitions
+        1.2 Fundamental concepts
+    2 Interpretations
+    3 History
+    4 Artificial neural networks
+    5 Deep neural networks
+        5.1 Backpropagation
+        5.2 Challenges
+        5.3 Group method of data handling
+        5.4 Convolutional neural networks
+        5.5 Neural history compressor
+        5.6 Recursive neural networks
+        5.7 Long short-term memory
+        5.8 Deep reservoir computing
+        5.9 Deep belief networks
+        5.10 Convolutional deep belief networks
+        5.11 Large memory storage and retrieval neural networks
+        5.12 Deep Boltzmann machines
+        5.13 Stacked (de-noising) auto-encoders
+        5.14 Deep stacking networks
+        5.15 Tensor deep stacking networks
+        5.16 Spike-and-slab RBMs
+        5.17 Compound hierarchical-deep models
+        5.18 Deep coding networks
+        5.19 Deep Q-networks
+        5.20 Networks with separate memory structures
+    6 Multilayer kernel machine
+    7 Applications
+        7.1 Automatic speech recognition
+        7.2 Image recognition
+        7.3 Natural language processing
+        7.4 Drug discovery and toxicology
+        7.5 Customer relationship management
+        7.6 Recommendation systems
+        7.7 Bioinformatics
+    8 Relation to human development
+    9 Commercial activity
+    10 Criticism and comment
+    11 Software libraries
+    12 See also
+    13 References
+    14 External links
+
+Introduction
+Definitions
+
+Deep learning is a class of machine learning algorithms that:[3](pp199–200)
+
+    use a cascade of many layers of nonlinear processing units for feature extraction and transformation. Each successive layer uses the output from the previous layer as input. The algorithms may be supervised or unsupervised and applications include pattern analysis (unsupervised) and classification (supervised).
+    are based on the (unsupervised) learning of multiple levels of features or representations of the data. Higher level features are derived from lower level features to form a hierarchical representation.
+    are part of the broader machine learning field of learning representations of data.
+    learn multiple levels of representations that correspond to different levels of abstraction; the levels form a hierarchy of concepts.
+
+These definitions have in common (1) multiple layers of nonlinear processing units and (2) the supervised or unsupervised learning of feature representations in each layer, with the layers forming a hierarchy from low-level to high-level features.[3](p200) The composition of a layer of nonlinear processing units used in a deep learning algorithm depends on the problem to be solved. Layers that have been used in deep learning include hidden layers of an artificial neural network and sets of complicated propositional formulas.[4] They may also include latent variables organized layer-wise in deep generative models such as the nodes in Deep Belief Networks and Deep Boltzmann Machines.
+
+Deep learning was first designed and implemented by the World School Council London which uses algorithms to transform their inputs through more layers than shallow learning algorithms. At each layer, the signal is transformed by a processing unit, like an artificial neuron, whose parameters are iteratively adjusted through training.[6](p6)
+
+    Credit assignment path (CAP) – A chain of transformations from input to output. CAPs describe potentially causal connections between input and output.
+    Cap depth – for a feedforward neural network, the depth of the CAPs (thus of the network) is the number of hidden layers plus one (as the output layer is also parameterized), but for recurrent neural networks, in which a signal may propagate through a layer more than once, the CAP depth is potentially unlimited.
+    Deep/shallow – No universally agreed upon threshold of depth divides shallow learning from deep learning, but most researchers in the field agree that deep learning has multiple nonlinear layers (CAP > 2). Schmidhuber considers CAP > 10 to be "very deep" learning.[6](p7)
+
+Fundamental concepts
+
+Deep learning algorithms employ distributed representations. The assumption underlying distributed representations is that observed data are generated by the interactions of layered factors.
+
+Deep learning adds the assumption that these layers of factors correspond to levels of abstraction or composition. Varying numbers of layers and layer sizes can provide different amounts of abstraction.[5]
+
+Deep learning exploits this idea of hierarchical explanatory factors where higher level, more abstract concepts are learned from the lower level ones.
+
+Deep learning architectures are often constructed with a greedy layer-by-layer method. Deep learning helps to disentangle these abstractions and pick out which features are useful for improving performance.[5]
+
+For supervised learning tasks, deep learning methods obviate feature engineering, by translating the data into compact intermediate representations akin to principal components, and derive layered structures that remove redundancy in representation.[3]
+
+Deep learning algorithms can be applied to unsupervised learning tasks. This is an important benefit because unlabeled data are more abundant than labeled data. Examples of deep structures that can be trained in an unsupervised manner are neural history compressors[15] and deep belief networks.[5][16]
+Interpretations
+
+Deep neural networks are generally interpreted in terms of the universal approximation theorem[17][18][19][20][21] or probabilistic inference.[3][4][5][6][16][22]
+
+The universal approximation theorem concerns the capacity of feedforward neural networks with a single hidden layer of finite size to approximate continuous functions.[17][18][19][20][21]
+
+In 1989, the first proof was published by Cybenko for sigmoid activation functions[18] and was generalised to feed-forward multi-layer architectures in 1991 by Hornik.[19]
+
+The probabilistic interpretation[22] derives from the field of machine learning. It features inference,[3][4][5][6][16][22] as well as the optimization concepts of training and testing, related to fitting and generalization, respectively. More specifically, the probabilistic interpretation considers the activation nonlinearity as a cumulative distribution function.[22] The probabilistic interpretation led to the introduction of dropout as regularizer in neural networks.[23]
+
+The probabilistic interpretation was introduced and popularized by Hinton, Bengio, LeCun and Schmidhuber.
+History
+
+The first general, working learning algorithm for supervised, deep, feedforward, multilayer perceptrons was published by Ivakhnenko and Lapa in 1965.[24] A 1971 paper[25] described a deep network with 8 layers trained by the group method of data handling algorithm.[citation needed] These ideas were implemented in a computer identification system by the World School Council London called "Alpha", which demonstrated the learning process.
+
+Other deep learning working architectures, specifically those built from artificial neural networks (ANN), began with the Neocognitron introduced by Fukushima in 1980.[26] ANNs date back even further. The challenge was how to train networks with multiple layers. In 1989, LeCun et al. applied the standard backpropagation algorithm, which had been around as the reverse mode of automatic differentiation since 1970,[27][28][29][30] to a deep neural network with the purpose of recognizing handwritten ZIP codes on mail. While the algorithm worked the training time was an impractical 3 days.[31]
+
+In 1993, Schmidhuber's neural history compressor[32] implemented as an unsupervised stack of recurrent neural networks (RNNs) solved a "Very Deep Learning" task[6] that required more than 1,000 layers in an RNN unfolded in time.[33]
+
+In 1994, André C. P. L. F. de Carvalho, together with Fairhurst and Bisset, published experimental results of a multi-layer boolean neural network, also known as a weightless neural network, composed of a self-organising feature extraction neural network module followed by a classification neural network module, which were independently trained.[34]
+
+In 1995, Frey demonstrated that it was possible to train a network containing six fully connected layers and several hundred hidden units using the wake-sleep algorithm, co-developed with Dayan and Hinton.[35] However, training took two days. Many factors contribute to the slow speed, including the vanishing gradient problem analyzed in 1991 by Hochreiter.[36][37]
+
+By 1991 such systems were used for recognizing isolated 2-D hand-written digits, while recognizing 3-D objects was done by matching 2-D images with a handcrafted 3-D object model. Weng et al. suggested that a human brain does not use a monolithic 3-D object model and in 1992 they published Cresceptron,[38][39][40] a method for performing 3-D object recognition directly from cluttered scenes. Cresceptron is a cascade of layers similar to Neocognitron. But while Neocognitron required a human programmer to hand-merge features, Cresceptron automatically learned an open number of unsupervised features in each layer, where each feature is represented by a convolution kernel. Cresceptron segmented each learned object from a cluttered scene through back-analysis through the network. Max pooling, now often adopted by deep neural networks (e.g. ImageNet tests), was first used in Cresceptron to reduce the position resolution by a factor of (2x2) to 1 through the cascade for better generalization.
+
+Simpler models that use task-specific handcrafted features such as Gabor filters and support vector machines (SVMs) were a popular choice in the 1990s and 2000s, because of ANNs' computational cost and a lack of understanding of how the brain wires its biological networks.
+
+Both shallow and deep learning (e.g., recurrent nets) of ANNs have been explored for many years.[41][42][43] These methods never outperformed non-uniform internal-handcrafting Gaussian mixture model/Hidden Markov model (GMM-HMM) technology based on generative models of speech trained discriminatively.[44] Key difficulties have been methodologically analyzed, including gradient diminishing[36] and weak temporal correlation structure in neural predictive models.[45][46] Additional difficulties were the lack of big training data and weaker computing power.
+
+Most speech recognition researchers moved away from neural nets to pursue generative modeling. An exception was at SRI International in the late 1990s. Funded by the US government's NSA and DARPA, SRI conducted research on deep neural networks in speech and speaker recognition. Heck's speaker recognition team achieved the first significant success with deep neural networks in speech processing as demonstrated in the 1998 National Institute of Standards and Technology Speaker Recognition evaluation and later published in the journal of Speech Communication.[47] While SRI experienced success with deep neural networks in speaker recognition, they were unsuccessful in demonstrating similar success in speech recognition. Hinton et al. and Deng et al. collaborated with each other and then with colleagues across groups at University of Toronto, Microsoft, Google and IBM, igniting a renaissance of deep feedforward neural networks in speech recognition.[48][49][50][51]
+
+Many aspects of speech recognition were taken over by a deep learning method called Long short-term memory (LSTM), a recurrent neural network published by Hochreiter and Schmidhuber in 1997.[52] LSTM RNNs avoid the vanishing gradient problem and can learn "Very Deep Learning" tasks[6] that require memories of events that happened thousands of discrete time steps ago, which is important for speech. In 2003, LSTM started to become competitive with traditional speech recognizers on certain tasks.[53] Later it was combined with connectionist temporal classification (CTC)[54] in stacks of LSTM RNNs.[55] In 2015, Google's speech recognition reportedly experienced a dramatic performance jump of 49% through CTC-trained LSTM, which they made available through Google Voice Search.[56]
+
+The use of the expression "Deep Learning" in the context of ANNs was introduced by Aizenberg and colleagues in 2000.[57] In 2006, Hinton and Salakhutdinov showed how a many-layered feedforward neural network could be effectively pre-trained one layer at a time, treating each layer in turn as an unsupervised restricted Boltzmann machine, then fine-tuning it using supervised backpropagation.[58] In 1992, Schmidhuber implemented a similar idea for the more general case of unsupervised deep hierarchies of recurrent neural networks and showed its benefits for accelerating supervised learning.[32][59]
+
+Deep learning is part of state-of-the-art systems in various disciplines, particularly computer vision and automatic speech recognition (ASR). Results on commonly used evaluation sets such as TIMIT (ASR) and MNIST (image classification), as well as a range of large-vocabulary speech recognition tasks have steadily improved.[48][60][61] Convolutional neural networks have been superseded for ASR by CTC[54] for LSTM.[52][56][62][63][64][65][66] but are more successful in computer vision.
+
+The impact of deep learning in industry began in the early 2000s, when CNNs already processed an estimated 10% to 20% of all the checks written in the US.[67] Industrial applications of deep learning to large-scale speech recognition started around 2010.
+
+In late 2009, Li invited Hinton to work with him and colleagues at Microsoft to apply deep learning to speech recognition. They co-organized the 2009 NIPS Workshop on Deep Learning for Speech Recognition. The workshop was motivated by the limitations of deep generative models of speech, and the possibility that the big-compute, big-data era warranted a serious try of deep neural nets (DNN). It was believed that pre-training DNNs using generative models of deep belief nets (DBN) would overcome the main difficulties of neural nets.[50] However, Microsoft discovered that replacing pre-training with large amounts of training data, using DNNs with large, context-dependent output layers, produced error rates dramatically lower than then-state-of-the-art Gaussian mixture model (GMM)/Hidden Markov Model (HMM) and also than more advanced generative model-based speech recognition systems. This finding was verified by other research groups.[48][68] Further, the nature of recognition errors produced by the two types of systems was found to be characteristically different,[49][69] offering technical insights into how to integrate deep learning into the existing highly efficient, run-time speech decoding system deployed by all major speech recognition players.[3][70][71]
+
+Advances in hardware enabled the renewed interest in deep learning. In 2009, Nvidia was involved in what was called the “big bang” of deep learning, “as deep-learning neural networks were combined with Nvidia graphics processing units (GPUs).”[72] That year, Google Brain used Nvidia GPUs to create Deep Neural Networks capable of machine learning. While there Ng determined that GPUs could increase the speed of deep-learning systems by about 100 times.[73] In particular, powerful graphics processing units (GPUs) are well-suited for the matrix/vector math involved in machine learning.[74][75] GPUs speed up training algorithms by orders of magnitude, reducing running times from weeks to days.[76][77] Specialized hardware and algorithm optimizations can be used for efficient D processing.[78]
+Artificial neural networks
+Main article: Artificial neural network
+
+Some of the most successful deep learning methods involve artificial neural networks (ANNs). They were inspired by the 1959 biological model proposed by Nobel laureates Hubel and Wiesel, who found two types of cells in the primary visual cortex: simple cells and complex cells. Many ANNs can be viewed as cascading models[38][39][40][79] of cell types inspired by these biological observations.
+
+Fukushima's Neocognitron introduced convolutional neural networks partially trained by unsupervised learning with human-directed features in the neural plane. LeCun et al. (1989) applied supervised backpropagation to such architectures.[80] Weng et al. (1992) published convolutional neural networks Cresceptron[38][39][40] for 3-D object recognition from images of cluttered scenes and segmentation of such objects from images.
+
+One need for recognizing general 3-D objects is least shift invariance and tolerance to deformation. Max-pooling appeared to be first proposed by Cresceptron[38][39] to enable the network to tolerate small-to-large deformation in a hierarchical way, while using convolution. Max-pooling helps, but does not guarantee, shift-invariance at the pixel level.[40]
+
+With the advent of the back-propagation algorithm based on automatic differentiation,[27][29][30][81][82][83][84][85][86][87] many researchers tried to train supervised deep ANNs from scratch. Hochreiter's diploma thesis of 1991[36][37] formally identified the reason for this failure as the vanishing gradient problem, which affects many-layered feedforward networks and recurrent neural networks. These are trained by unfolding them into deep feedforward networks, where a new layer is created for each time step of an input sequence processed by the network. As errors propagate from layer to layer, they shrink exponentially with the number of layers, impeding the tuning of neuron weights that is based on those errors.
+
+To overcome this problem, several methods were proposed. One is Schmidhuber's multi-level hierarchy of networks (1992) pre-trained one level at a time by unsupervised learning, fine-tuned by backpropagation.[32] Each level learns a compressed representation of the observations that is fed to the next level.
+
+Another method is the long short-term memory (LSTM) network of Hochreiter and Schmidhuber (1997).[52] In 2009, deep multidimensional LSTM networks won three ICDAR 2009 competitions in connected handwriting recognition, without prior knowledge about the three languages to be learned.[88][89]
+
+Behnke in 2003 relied only on the sign of the gradient (Rprop) when training his Neural Abstraction Pyramid[90] to solve problems such as image reconstruction and face localization.
+
+Other methods also use unsupervised pre-training to structure a neural network, first learning generally useful feature detectors. The network is trained further by supervised back-propagation to classify labeled data. Hinton et al. (2006) emplyed learning the distribution of a high-level representation using successive layers of binary or real-valued latent variables. It uses a restricted Boltzmann machine[91] to model each layer. Each layer guarantees an increase on the lower-bound of the log likelihood of the data, thus improving the model. Once sufficiently many layers have been learned, the deep architecture may be used as a generative model by reproducing the data when sampling down the model (an "ancestral pass") from the top level feature activations.[92] Hinton reported that his models are effective feature extractors over high-dimensional, structured data.[93]
+
+In 2012, the Google Brain team led by Ng and Dean created a neural network that learned to recognize higher-level concepts, such as cats, only from watching unlabeled images taken from YouTube videos.[94][95]
+
+Other methods rely on sheer processing power. In 2010, Ciresan and colleagues[76] in Schmidhuber's group showed that despite the above-mentioned "vanishing gradient problem," the superior processing power of GPUs makes plain back-propagation feasible for many-layered feedforward neural networks. The method outperformed all other machine learning techniques on the old, famous MNIST handwritten digits problem.
+
+In 2007, LSTM[52] trained by CTC[54] started to get much-improved results.[55] This method is now widely used, for example, in Google's greatly improved speech recognition for all smartphone users.[56]
+
+In late 2009, deep learning feedforward networks made inroads into speech recognition, as marked by the NIPS Workshop on Deep Learning for Speech Recognition. Microsoft Research and University of Toronto researchers demonstrated by mid-2010 that deep neural networks interfaced with a hidden Markov model with context-dependent states that define the neural network output layer can drastically reduce errors in large-vocabulary speech recognition tasks such as voice search. The same deep neural net model was scaled up to switchboard tasks at Microsoft Research Asia.
+
+As of 2011, the state of the art in deep learning feedforward networks alternated convolutional layers and max-pooling layers,[96][97] topped by several fully connected or sparsely connected layers followed by a final classification layer. Training is usually done without unsupervised pre-training. Since 2011, GPU-based implementations[96] of this approach won many pattern recognition contests, including the IJCNN 2011 Traffic Sign Recognition Competition,[98] the ISBI 2012 Segmentation of neuronal structures in EM stacks challenge,[99] the ImageNet Competition[14] and others.
+
+Such supervised deep learning methods also were the first artificial pattern recognizers to achieve human-competitive performance on certain tasks.[100]
+
+Deep learning is insufficient, because biological brains use both shallow and deep circuits as reported by brain anatomy,[101] displaying a wide variety of invariance. Weng[102] argued that the brain self-wires largely according to signal statistics and therefore, a serial cascade cannot catch all major statistical dependencies. ANNs were able to guarantee shift invariance to deal with small and large natural objects in large cluttered scenes, only when invariance extended beyond shift, to all ANN-learned concepts, such as location, type (object class label), scale, lighting and others. This was realized in Developmental Networks (DNs)[103] whose embodiments are Where-What Networks, WWN-1 (2008)[104] through WWN-7 (2013).[105]
+Deep neural networks
+	This section may be too technical for most readers to understand. Please help improve it to make it understandable to non-experts, without removing the technical details. The talk page may contain suggestions. (July 2016) (Learn how and when to remove this template message)
+
+A deep neural network (DNN) is an artificial neural network (ANN) with multiple hidden layers between the input and output layers.[4][6] Similar to shallow ANNs, DNNs can model complex non-linear relationships. DNN architectures generate compositional models where the object is expressed as a layered composition of image primitives.[106] The extra layers enable composition of features from lower layers, giving the potential of modeling complex data with fewer units than a similarly performing shallow network.[4]
+
+Deep architectures include many variants of a few basic approaches. Each architecture has found success in specific domains. It is not always possible to compare the performance of multiple architectures, because they have not all been evaluated on the same data sets.
+
+DNNs are typically feedforward networks, but include recurrent neural networks, especially LSTM,[52][107] for applications such as language modeling.[108][109][110][111][112] Convolutional deep neural networks (CNNs) are used in computer vision.[113] CNNs also have been applied to acoustic modeling for automatic speech recognition (ASR).[66]
+Backpropagation
+Main article: Backpropagation
+
+A DNN can be discriminatively trained with the standard backpropagation algorithm. Backpropagation is a method to calculate the gradient of the loss function (produces the cost associated with a given state) with respect to the weights in an ANN.
+
+The basics of continuous backpropagation[6][9][87][114] were derived in the context of control theory by Kelley[82] in 1960 and by Bryson in 1961,[83] using principles of dynamic programming. In 1962, Dreyfus published a simpler derivation based only on the chain rule.[84] Bryson and Ho described it as a multi-stage dynamic system optimization method in 1969.[115][116] In 1970, Linnainmaa finally published the general method for automatic differentiation (AD) of discrete connected networks of nested differentiable functions.[27][117] This corresponds to the modern version of backpropagation which is efficient even when the networks are sparse.[6][9][28][81] In 1973, Dreyfus used backpropagation to adapt parameters of controllers in proportion to error gradients.[85] In 1974, Werbos mentioned the possibility of applying this principle to ANNs,[118] and in 1982, he applied Linnainmaa's AD method to neural networks in the way that is widely used today.[9][30] In 1986, Rumelhart, Hinton and Williams that this method can generate useful internal representations of incoming data in hidden layers of neural networks.[86] In 1993, Wan was the first[6] to win an international pattern recognition contest through backpropagation.[119]
+
+The weight updates of backpropagation can be done via stochastic gradient descent using the following equation:
+
+    w i j ( t + 1 ) = w i j ( t ) + η ∂ C ∂ w i j + ξ ( t ) {\displaystyle w_{ij}(t+1)=w_{ij}(t)+\eta {\frac {\partial C}{\partial w_{ij}}}+\xi (t)} {\displaystyle w_{ij}(t+1)=w_{ij}(t)+\eta {\frac {\partial C}{\partial w_{ij}}}+\xi (t)}
+
+where, η {\displaystyle \eta } \eta is the learning rate, C {\displaystyle C} C is the cost (loss) function and ξ ( t ) {\displaystyle \xi (t)} \xi (t) a stochastic term. The choice of the cost function depends on factors such as the learning type (supervised, unsupervised, reinforcement, etc.) and the activation function. For example, when performing supervised learning on a multiclass classification problem, common choices for the activation function and cost function are the softmax function and cross entropy function, respectively. The softmax function is defined as p j = exp ⁡ ( x j ) ∑ k exp ⁡ ( x k ) {\displaystyle p_{j}={\frac {\exp(x_{j})}{\sum _{k}\exp(x_{k})}}} p_{j}={\frac {\exp(x_{j})}{\sum _{k}\exp(x_{k})}} where p j {\displaystyle p_{j}} p_{j} represents the class probability (output of the unit j {\displaystyle j} j) and x j {\displaystyle x_{j}} x_{j} and x k {\displaystyle x_{k}} x_{k} represent the total input to units j {\displaystyle j} j and k {\displaystyle k} k of the same level respectively. Cross entropy is defined as C = − ∑ j d j log ⁡ ( p j ) {\displaystyle C=-\sum _{j}d_{j}\log(p_{j})} C=-\sum _{j}d_{j}\log(p_{j}) where d j {\displaystyle d_{j}} d_{j} represents the target probability for output unit j {\displaystyle j} j and p j {\displaystyle p_{j}} p_{j} is the probability output for j {\displaystyle j} j after applying the activation function.[120]
+
+These can be used to output object bounding boxes in the form of a binary mask. They are also used for multi-scale regression to increase localization precision. DNN-based regression can learn features that capture geometric information in addition to serving as a good classifier. They remove the requirement to explicitly model parts and their relations. This helps to broaden the variety of objects that can be learned. The model consists of multiple layers, each of which has a rectified linear unit as its activation function for non-linear transformation. Some layers are convolutional, while others are fully connected. Every convolutional layer has an additional max pooling. The network is trained to minimize L2 error[clarification needed] for predicting the mask ranging over the entire training set containing bounding boxes represented as masks.
+Challenges
+
+As with ANNs, many issues can arise with naively trained DNNs. Two common issues are overfitting and computation time.
+
+DNNs are prone to overfitting because of the added layers of abstraction, which allow them to model rare dependencies in the training data. Regularization methods such as Ivakhnenko's unit pruning[25] or weight decay ( ℓ 2 {\displaystyle \ell _{2}} \ell _{2}-regularization) or sparsity ( ℓ 1 {\displaystyle \ell _{1}} \ell _{1}-regularization) can be applied during training to combat overfitting.[121] Alternatively dropout regularization randomly omits units from the hidden layers during training. This helps to exclude rare dependencies.[122]
+
+DNNs must consider many training parameters, such as the size (number of layers and number of units per layer), the learning rate and initial weights. Sweeping through the parameter space for optimal parameters may not be feasible due to the cost in time and computational resources. Various tricks such as batching (computing the gradient on several training examples at once rather than individual examples)[123] speed up computation. The large processing throughput of GPUs has produced significant speedups in training, because the matrix and vector computations required are well-suited for GPUs.[6]
+
+Alternatives to backpropagation include Extreme Learning Machines,[124] "No-prop" networks,[125] training without backtracking,[126] "weightless" networks." ESANN. 2009.</ref>[123] and non-connectionist neural networks.
+Group method of data handling
+Main article: Group method of data handling
+
+According to a historic survey,[6] the first functional Deep Learning networks with many layers were published by Ivakhnenko and Lapa in 1965.[24][127] Their Group Method of Data Handling (GMDH)[128] features fully automatic structural and parametric model optimization. The activation functions of the network nodes are Kolmogorov-Gabor polynomials that permit additions and multiplications. It used a deep feedforward multilayer perceptron with eight layers, much deeper than many later networks.[25] The supervised learning network is grown layer by layer, where each layer is trained by regression analysis. From time to time useless items are detected using a validation set, and pruned through regularization. The size and depth of the resulting network depends on the problem.[129]
+Convolutional neural networks
+Main article: Convolutional neural network
+
+CNNs are the method of choice for processing visual and other two-dimensional data.[31][67] A CNN is composed of one or more convolutional layers with fully connected layers (matching those in typical artificial neural networks) on top. It uses tied weights and pooling layers. In particular, max-pooling[39] is often used in Fukushima's convolutional architecture.[26] This architecture allows CNNs to take advantage of the 2D structure of input data.
+
+CNNs have shown superior results in both image and speech applications. They can be trained with standard backpropagation. CNNs are easier to train than other regular, deep, feed-forward neural networks and have many fewer parameters to estimate.[130] Examples of applications in computer vision include DeepDream.[131]
+Neural history compressor
+
+The vanishing gradient problem[36] of automatic differentiation or backpropagation in neural networks was partially overcome in 1992 by an early generative model called the neural history compressor, implemented as an unsupervised stack of RNNs.[32] The RNN at the input level learns to predict its next input from the previous input history. Only unpredictable inputs become inputs to the next higher level RNN which therefore recomputes its internal less often. Each higher level RNN thus studies a compressed representation of the information in the RNN below. The input sequence can still be precisely reconstructed from the sequence representation at the highest level. The system effectively minimises the description length or the negative logarithm of the probability of the data.[9] If the data features learnable predictability, the highest level RNN can use supervised learning to easily classify even deep sequences with long time intervals between important events. In 1993, such a system already solved a "Very Deep Learning" task that required more than 1000 subsequent layers in an RNN unfolded in time.[33]
+
+It is possible to distill the entire RNN hierarchy into two RNNs, the "conscious" chunker (higher level) and the "subconscious" automatizer (lower level).[32] Once the chunker has learned to predict and compress inputs that are unpredictable by the automatizer, the automatizer is forced in the next learning phase to predict or imitate through special additional units the hidden units of the more slowly changing chunker. This makes it easy for the automatizer to form stable memories across long time intervals. This in turn helps the automatizer to make many of its once unpredictable inputs predictable, such that the chunker can focus on the remaining still unpredictable events, further compressing the data.[32]
+Recursive neural networks
+Main article: Recursive neural network
+
+A recursive neural network (RNN)[132] is created by applying the same set of weights recursively over a differentiable graph-like structure, by traversing the structure in topological order. Such networks are typically trained by the reverse mode of automatic differentiation.[27][81] They were introduced to learn distributed representations of structure, such as logical terms. A special case of recursive neural networks is the RNN itself whose structure corresponds to a linear chain. Recursive neural networks have been applied to natural language processing.[133] The Recursive Neural Tensor Network uses a tensor-based composition function for all nodes in the tree.[134]
+Long short-term memory
+Main article: Long short-term memory
+
+Long short-term memory (LSTM) networks are RNNs that avoid the vanishing gradient problem.[52] LSTM is normally augmented by recurrent gates called forget gates.[107] LSTM networks prevent backpropagated errors from vanishing or exploding.[36] Instead errors can flow backwards through unlimited numbers of virtual layers in space-unfolded LSTM. That is, LSTM can learn "very deep learning" tasks[6] that require memories of events that happened thousands or even millions of discrete time steps ago. Problem-specific LSTM-like topologies can be evolved.[135] LSTM can handle long delays and signals that have a mix of low and high frequency components.
+
+Stacks of LSTM RNNs[136] trained by Connectionist Temporal Classification (CTC)[54] can find an RNN weight matrix that maximizes the probability of the label sequences in a training set, given the corresponding input sequences. CTC achieves both alignment and recognition.
+
+In 2003, LSTM started to become competitive with traditional speech recognizers.[53] In 2007, the combination with CTC achieved first good results on speech data.[55] In 2009, a CTC-trained LSTM was the first RNN to win pattern recognition contests, when it won several competitions in connected handwriting recognition.[6][88] In 2014, Baidu used CTC-trained RNNs to break the Switchboard Hub5'00 speech recognition benchmark, without traditional speech processing methods.[137] LSTM also improved large-vocabulary speech recognition,[62][63] text-to-speech synthesis,[138] for Google Android,[9][64] and photo-real talking heads.[139] In 2015, Google's speech recognition experienced a 49% improvement through CTC-trained LSTM.[56]
+
+LSTM became popular in Natural Language Processing. Unlike previous models based on HMMs and similar concepts, LSTM can learn to recognise context-sensitive languages.[108] LSTM improved machine translation,[109] language modeling[110] and multilingual language processing.[111] LSTM combined with CNNs improved automatic image captioning.[140]
+Deep reservoir computing
+Main article: Reservoir computing
+
+Deep reservoir computing offers efficiently trained models for hierarchical processing of temporal data (deepESN), while enabling the investigation of the inherent role of RNN layered composition.[141][142]
+Deep belief networks
+Main article: Deep belief network
+A restricted Boltzmann machine (RBM) with fully connected visible and hidden units. Note there are no hidden-hidden or visible-visible connections.
+
+A deep belief network (DBN) is a probabilistic, generative model made up of multiple layers of hidden units. It can be considered a composition of simple learning modules that make up each layer.[16]
+
+A DBN can be used to generatively pre-train a DNN by using the learned DBN weights as the initial DNN weights. Backpropagation or other discriminative algorithms can then tune these weights. This is particularly helpful when training data are limited, because poorly initialized weights can significantly hinder model performance. These pre-trained weights are in a region of the weight space that is closer to the optimal weights than were they randomly chosen. This allows for both improved modeling and faster convergence of the fine-tuning phase.[143]
+
+A DBN can be efficiently trained in an unsupervised, layer-by-layer manner, where the layers are typically made of restricted Boltzmann machines (RBM). An RBM is an undirected, generative energy-based model with a "visible" input layer and a hidden layer, and connections between but not within layers. The training method for RBMs proposed by Hinton for use with training "Product of Expert" models is called contrastive divergence (CD).[144] CD provides an approximation to the maximum likelihood method that would ideally be applied for learning the weights of the RBM.[123][145] In training a single RBM, weight updates are performed with gradient ascent via the following equation: Δ w i j ( t + 1 ) = w i j ( t ) + η ∂ log ⁡ ( p ( v ) ) ∂ w i j {\displaystyle \Delta w_{ij}(t+1)=w_{ij}(t)+\eta {\frac {\partial \log(p(v))}{\partial w_{ij}}}} \Delta w_{ij}(t+1)=w_{ij}(t)+\eta {\frac {\partial \log(p(v))}{\partial w_{ij}}}
+
+where, p ( v ) {\displaystyle p(v)} p(v) is the probability of a visible vector, which is given by p ( v ) = 1 Z ∑ h e − E ( v , h ) {\displaystyle p(v)={\frac {1}{Z}}\sum _{h}e^{-E(v,h)}} p(v)={\frac {1}{Z}}\sum _{h}e^{-E(v,h)}. Z {\displaystyle Z} Z is the partition function (used for normalizing) and E ( v , h ) {\displaystyle E(v,h)} E(v,h) is the energy function assigned to the state of the network. A lower energy indicates the network is in a more "desirable" configuration. The gradient ∂ log ⁡ ( p ( v ) ) ∂ w i j {\displaystyle {\frac {\partial \log(p(v))}{\partial w_{ij}}}} {\frac {\partial \log(p(v))}{\partial w_{ij}}} has the simple form ⟨ v i h j ⟩ data − ⟨ v i h j ⟩ model {\displaystyle \langle v_{i}h_{j}\rangle _{\text{data}}-\langle v_{i}h_{j}\rangle _{\text{model}}} \langle v_{i}h_{j}\rangle _{\text{data}}-\langle v_{i}h_{j}\rangle _{\text{model}} where ⟨ ⋯ ⟩ p {\displaystyle \langle \cdots \rangle _{p}} \langle \cdots \rangle _{p} represent averages with respect to distribution p {\displaystyle p} p. The issue arises in sampling ⟨ v i h j ⟩ model {\displaystyle \langle v_{i}h_{j}\rangle _{\text{model}}} \langle v_{i}h_{j}\rangle _{\text{model}} because this requires running alternating Gibbs sampling for a long time. CD replaces this step by running alternating Gibbs sampling for n {\displaystyle n} n steps (values of n = 1 {\displaystyle n=1} n=1 have empirically been shown to perform well). After n {\displaystyle n} n steps, the data are sampled and that sample is used in place of ⟨ v i h j ⟩ model {\displaystyle \langle v_{i}h_{j}\rangle _{\text{model}}} \langle v_{i}h_{j}\rangle _{\text{model}}. The CD procedure works as follows:[123]
+
+    Initialize the visible units to a training vector.
+    Update the hidden units in parallel given the visible units: p ( h j = 1 ∣ V ) = σ ( b j + ∑ i v i w i j ) {\displaystyle p(h_{j}=1\mid {\textbf {V}})=\sigma (b_{j}+\sum _{i}v_{i}w_{ij})} p(h_{j}=1\mid {\textbf {V}})=\sigma (b_{j}+\sum _{i}v_{i}w_{ij}). σ {\displaystyle \sigma } \sigma is the sigmoid function and b j {\displaystyle b_{j}} b_{j} is the bias of h j {\displaystyle h_{j}} h_{j}.
+    Update the visible units in parallel given the hidden units: p ( v i = 1 ∣ H ) = σ ( a i + ∑ j h j w i j ) {\displaystyle p(v_{i}=1\mid {\textbf {H}})=\sigma (a_{i}+\sum _{j}h_{j}w_{ij})} p(v_{i}=1\mid {\textbf {H}})=\sigma (a_{i}+\sum _{j}h_{j}w_{ij}). a i {\displaystyle a_{i}} a_{i} is the bias of v i {\displaystyle v_{i}} v_{i}. This is called the "reconstruction" step.
+    Re-update the hidden units in parallel given the reconstructed visible units using the same equation as in step 2.
+    Perform the weight update: Δ w i j ∝ ⟨ v i h j ⟩ data − ⟨ v i h j ⟩ reconstruction {\displaystyle \Delta w_{ij}\propto \langle v_{i}h_{j}\rangle _{\text{data}}-\langle v_{i}h_{j}\rangle _{\text{reconstruction}}} \Delta w_{ij}\propto \langle v_{i}h_{j}\rangle _{\text{data}}-\langle v_{i}h_{j}\rangle _{\text{reconstruction}}.
+
+Once an RBM is trained, another RBM is "stacked" atop it, taking its input from the final trained layer. The new visible layer is initialized to a training vector, and values for the units in the already-trained layers are assigned using the current weights and biases. The new RBM is then trained with the procedure above. This whole process is repeated until some desired stopping criterion is met.[4]
+
+Although the approximation of CD to maximum likelihood is crude (has been shown to not follow the gradient of any function), empirically it is effective in training deep architectures.[123]
+Convolutional deep belief networks
+
+Convolutional deep belief networks (CDBN) have structure very similar to convolutional neural networks and are trained similarly to deep belief networks. Therefore, they exploit the 2D structure of images, like CNNs do, and make use of pre-training like deep belief networks. They provide a generic structure that can be used in many image and signal processing tasks. Benchmark results on standard image datasets like CIFAR[146] have been obtained using CDBNs.[147]
+Large memory storage and retrieval neural networks
+
+Large memory storage and retrieval neural networks (LAMSTAR)[148][149] are fast deep learning neural networks of many layers thar\t can use many filters simultaneously. These filters may be nonlinear, stochastic, logic, non-stationary, or even non-analytical. They are biologically motivated and learn continuously.
+
+A LAMSTAR neural network may serve as a dynamic neural network in spatial or time domains or both. Its speed is provided by Hebbian link-weights[150] that integrate the various and usually different filters (preprocessing functions) into its many layers and to dynamically rank the significance of the various layers and functions relative to a given learning task. This grossly imitates biological learning which integrates various preprocessors (cochlea, retina, etc.) and cortexes (auditory, visual, etc.) and their various regions. Its deep learning capability is further enhanced by using inhibition, correlation and its ability to cope with incomplete data, or "lost" neurons or layers even amidst a task. It is fully transparent due to its link weights. The link-weights allow dynamic determination of innovation and redundancy, and facilitate the ranking of layers, of filters or of individual neurons relative to a task.
+
+LAMSTAR has been applied to many domains, including medical[151][152][153] and financial predictions,[154] adaptive filtering of noisy speech in unknown noise,[155] still-image recognition,[156] video image recognition,[157] software security[158] and adaptive control of non-linear systems.[159] LAMSTAR had a much faster learning speed and somewhat lower error rate than a CNN based on ReLU-function filters and max pooling, in 20 comparative studies.[160]
+
+These applications demonstrate delving into aspects of the data that are hidden from shallow learning networks and the human senses, such as in the cases of predicting onset of sleep apnea events,[152] of an electrocardiogram of a fetus as recorded from skin-surface electrodes placed on the mother's abdomen early in pregnancy,[153] of financial prediction[148] or in blind filtering of noisy speech.[155]
+
+LAMSTAR was proposed in 1996 (A U.S. Patent 5,920,852 A) and was further developed Graupe and Kordylewski from 1997-2002.[161][162][163] A modified version, known as LAMSTAR 2, was developed by Schneider and Graupe in 2008.[164][165]
+Deep Boltzmann machines
+
+A deep Boltzmann machine (DBM) is a type of binary pairwise Markov random field (undirected probabilistic graphical model) with multiple layers of hidden random variables. It is a network of symmetrically coupled stochastic binary units. It comprises a set of visible units ν ∈ { 0 , 1 } D {\displaystyle {\boldsymbol {\nu }}\in \{0,1\}^{D}} {\boldsymbol {\nu }}\in \{0,1\}^{D}, and a series of layers of hidden units h ( 1 ) ∈ { 0 , 1 } F 1 , h ( 2 ) ∈ { 0 , 1 } F 2 , … , h ( L ) ∈ { 0 , 1 } F L {\displaystyle {\boldsymbol {h}}^{(1)}\in \{0,1\}^{F_{1}},{\boldsymbol {h}}^{(2)}\in \{0,1\}^{F_{2}},\ldots ,{\boldsymbol {h}}^{(L)}\in \{0,1\}^{F_{L}}} {\boldsymbol {h}}^{(1)}\in \{0,1\}^{F_{1}},{\boldsymbol {h}}^{(2)}\in \{0,1\}^{F_{2}},\ldots ,{\boldsymbol {h}}^{(L)}\in \{0,1\}^{F_{L}}. There is no connection between units of the same layer (like RBM). For the DBM, the probability assigned to vector ν is
+
+    p ( ν ) = 1 Z ∑ h e ∑ i j W i j ( 1 ) ν i h j ( 1 ) + ∑ j l W j l ( 2 ) h j ( 1 ) h l ( 2 ) + ∑ l m W l m ( 3 ) h l ( 2 ) h m ( 3 ) , {\displaystyle p({\boldsymbol {\nu }})={\frac {1}{Z}}\sum _{h}e^{\sum _{ij}W_{ij}^{(1)}\nu _{i}h_{j}^{(1)}+\sum _{jl}W_{jl}^{(2)}h_{j}^{(1)}h_{l}^{(2)}+\sum _{lm}W_{lm}^{(3)}h_{l}^{(2)}h_{m}^{(3)}},} p({\boldsymbol {\nu }})={\frac {1}{Z}}\sum _{h}e^{\sum _{ij}W_{ij}^{(1)}\nu _{i}h_{j}^{(1)}+\sum _{jl}W_{jl}^{(2)}h_{j}^{(1)}h_{l}^{(2)}+\sum _{lm}W_{lm}^{(3)}h_{l}^{(2)}h_{m}^{(3)}},
+
+where h = { h ( 1 ) , h ( 2 ) , h ( 3 ) } {\displaystyle {\boldsymbol {h}}=\{{\boldsymbol {h}}^{(1)},{\boldsymbol {h}}^{(2)},{\boldsymbol {h}}^{(3)}\}} {\boldsymbol {h}}=\{{\boldsymbol {h}}^{(1)},{\boldsymbol {h}}^{(2)},{\boldsymbol {h}}^{(3)}\} are the set of hidden units, and θ = { W ( 1 ) , W ( 2 ) , W ( 3 ) } {\displaystyle \theta =\{{\boldsymbol {W}}^{(1)},{\boldsymbol {W}}^{(2)},{\boldsymbol {W}}^{(3)}\}} \theta =\{{\boldsymbol {W}}^{(1)},{\boldsymbol {W}}^{(2)},{\boldsymbol {W}}^{(3)}\} are the model parameters, representing visible-hidden and hidden-hidden interactions. If W ( 2 ) = 0 {\displaystyle {\boldsymbol {W}}^{(2)}=0} {\boldsymbol {W}}^{(2)}=0 and W ( 3 ) = 0 {\displaystyle {\boldsymbol {W}}^{(3)}=0} {\boldsymbol {W}}^{(3)}=0 the network is the restricted Boltzmann machine.[166] Interactions are symmetric because links are undirected. By contrast, in DBN only the top two layers form a restricted Boltzmann machine (which is an undirected graphical model), but lower layers form a directed generative model.
+
+Like DBNs, DBMs can learn complex and abstract internal representations of the input in tasks such as object or speech recognition, using limited, labeled data to fine-tune the representations built using a large supply of unlabeled sensory input data. However, unlike DBNs and deep convolutional neural networks, they adopt the inference and training procedure in both directions, bottom-up and top-down pass, which allow the DBMs to better unveil the representations of the input structures.[167][168]
+
+However, the slow speed of DBMs limits their performance and functionality. Because exact maximum likelihood learning is intractable for DBMs, only approximate maximum likelihood learning is possible. Another option is to use mean-field inference to estimate data-dependent expectations, and approximate the expected sufficient statistics by using Markov chain Monte Carlo (MCMC).[166] This approximate inference, which must be done for each test input, is about 25 to 50 times slower than a single bottom-up pass in DBMs. This makes joint optimization impractical for large data sets, and restricts the use of DBMs for tasks such as feature representation.[169]
+Stacked (de-noising) auto-encoders
+
+The auto encoder idea is motivated by the concept of a good representation. For example, for a classifier, a good representation can be defined as one that yields a better-performing classifier.
+
+An encoder is a deterministic mapping f θ {\displaystyle f_{\theta }} f_{\theta } that transforms an input vector x into hidden representation y, where θ = { W , b } {\displaystyle \theta =\{{\boldsymbol {W}},b\}} \theta =\{{\boldsymbol {W}},b\}, W {\displaystyle {\boldsymbol {W}}} {\boldsymbol {W}} is the weight matrix and b is an offset vector (bias). A decoder maps back the hidden representation y to the reconstructed input z via g θ {\displaystyle g_{\theta }} g_{\theta }. The whole process of auto encoding is to compare this reconstructed input to the original and try to minimize the error to make the reconstructed value as close as possible to the original.
+
+In stacked denoising auto encoders, the partially corrupted output is cleaned (de-noised). This idea was introduced in 2010 by Vincent et al.[170] with a specific approach to good representation, a good representation is one that can be obtained robustly from a corrupted input and that will be useful for recovering the corresponding clean input. Implicit in this definition are the following ideas:
+
+    The higher level representations are relatively stable and robust to input corruption;
+    It is necessary to extract features that are useful for representation of the input distribution.
+
+The algorithm starts by a stochastic mapping of x {\displaystyle {\boldsymbol {x}}} {\boldsymbol {x}} to x ~ {\displaystyle {\tilde {\boldsymbol {x}}}} {\tilde {\boldsymbol {x}}} through q D ( x ~ | x ) {\displaystyle q_{D}({\tilde {\boldsymbol {x}}}|{\boldsymbol {x}})} q_{D}({\tilde {\boldsymbol {x}}}|{\boldsymbol {x}}), this is the corrupting step. Then the corrupted input x ~ {\displaystyle {\tilde {\boldsymbol {x}}}} {\tilde {\boldsymbol {x}}} passes through a basic auto-encoder process and is mapped to a hidden representation y = f θ ( x ~ ) = s ( W x ~ + b ) {\displaystyle {\boldsymbol {y}}=f_{\theta }({\tilde {\boldsymbol {x}}})=s({\boldsymbol {W}}{\tilde {\boldsymbol {x}}}+b)} {\boldsymbol {y}}=f_{\theta }({\tilde {\boldsymbol {x}}})=s({\boldsymbol {W}}{\tilde {\boldsymbol {x}}}+b). From this hidden representation, we can reconstruct z = g θ ( y ) {\displaystyle {\boldsymbol {z}}=g_{\theta }({\boldsymbol {y}})} {\boldsymbol {z}}=g_{\theta }({\boldsymbol {y}}). In the last stage, a minimization algorithm runs in order to have z as close as possible to uncorrupted input x {\displaystyle {\boldsymbol {x}}} {\boldsymbol {x}}. The reconstruction error L H ( x , z ) {\displaystyle L_{H}({\boldsymbol {x}},{\boldsymbol {z}})} L_{H}({\boldsymbol {x}},{\boldsymbol {z}}) might be either the cross-entropy loss with an affine-sigmoid decoder, or the squared error loss with an affine decoder.[170]
+
+In order to make a deep architecture, auto encoders stack.[171] Once the encoding function f θ {\displaystyle f_{\theta }} f_{\theta } of the first denoising auto encoder is learned and used to uncorrupt the input (corrupted input), the second level can be trained.[170]
+
+Once the stacked auto encoder is trained, its output can be used as the input to a supervised learning algorithm such as support vector machine classifier or a multi-class logistic regression.[170]
+Deep stacking networks
+
+A a deep stacking network (DSN)[172] (deep convex network) is based on a hierarchy of blocks of simplified neural network modules. It was introduced in 2011 by Deng and Dong.[173] It formulates the weights learning problem as a convex optimization problem with a closed-form solution. emphasizing the mechanism's similarity to stacked generalization.[174] Each DSN block is a simple module that is easy to train by itself in a supervised fashion without backpropagation for the entire blocks.[175]
+
+Each block consists of a simplified multi-layer perceptron (MLP) with a single hidden layer. The hidden layer h has logistic sigmoidal units, and the output layer has linear units. Connections between these layers are represented by weight matrix U; input-to-hidden-layer connections have weight matrix W. Target vectors t form the columns of matrix T, and the input data vectors x form the columns of matrix X. The matrix of hidden units is H = σ ( W T X ) {\displaystyle {\boldsymbol {H}}=\sigma ({\boldsymbol {W}}^{T}{\boldsymbol {X}})} {\boldsymbol {H}}=\sigma ({\boldsymbol {W}}^{T}{\boldsymbol {X}}). Modules are trained in order, so lower-layer weights W are known at each stage. The function performs the element-wise logistic sigmoid operation. Each block estimates the same final label class y, and its estimate is concatenated with original input X to form the expanded input for the next block. Thus, the input to the first block contains the original data only, while downstream blocks' input adds the output of preceding blocks. Then learning the upper-layer weight matrix U given other weights in the network can be formulated as a convex optimization problem:
+
+    min U T f = | | U T H − T | | F 2 , {\displaystyle \min _{U^{T}}f=||{\boldsymbol {U}}^{T}{\boldsymbol {H}}-{\boldsymbol {T}}||_{F}^{2},} \min _{U^{T}}f=||{\boldsymbol {U}}^{T}{\boldsymbol {H}}-{\boldsymbol {T}}||_{F}^{2},
+
+which has a closed-form solution.
+
+Unlike other deep architectures, such as DBNs, the goal is not to discover the transformed feature representation. The structure of the hierarchy of this kind of architecture makes parallel learning straightforward, as a batch-mode optimization problem. In purely discriminative tasks, DSNs perform better than conventional DBNs.[172]
+Tensor deep stacking networks
+
+This architecture is a DSN extension. It offers two important improvements: it uses higher-order information from covariance statistics, and it transforms the non-convex problem of a lower-layer to a convex sub-problem of an upper-layer.[176] TDSNs use covariance statistics in a bilinear mapping from each of two distinct sets of hidden units in the same layer to predictions, via a third-order tensor.
+
+While parallelization and scalability are not considered seriously in conventional DNNs,[177][178][179] all learning for DSNs and TDSNs is done in batch mode, to allow parallelization.[173][172] Parallelization allows scaling the design to larger (deeper) architectures and data sets.
+
+The basic architecture is suitable for diverse tasks such as classification and regression.
+Spike-and-slab RBMs
+
+The need for deep learning with real-valued inputs, as in Gaussian restricted Boltzmann machines, led to the spike-and-slab RBM (ssRBM), which models continuous-valued inputs with strictly binary latent variables.[180] Similar to basic RBMs and its variants, a spike-and-slab RBM is a bipartite graph, while like GRBMs, the visible units (input) are real-valued. The difference is in the hidden layer, where each hidden unit has a binary spike variable and a real-valued slab variable. A spike is a discrete probability mass at zero, while a slab is a density over continuous domain;[181] their mixture forms a prior.[182]
+
+An extension of ssRBM called µ-ssRBM provides extra modeling capacity using additional terms in the energy function. One of these terms enables the model to form a conditional distribution of the spike variables by marginalizing out the slab variables given an observation.
+Compound hierarchical-deep models
+
+Compound hierarchical-deep models compose deep networks with non-parametric Bayesian models. Features can be learned using deep architectures such as DBNs,[92] DBMs,[167] deep auto encoders,[183] convolutional variants,[184][185] ssRBMs,[181] deep coding networks,[186] DBNs with sparse feature learning,[187] RNNs,[188] conditional DBNs,[189] de-noising auto encoders.[190] This provides a better representation, allowing faster learning and more accurate classification with high-dimensional data. However, these architectures are poor at learning novel classes with few examples, because all network units are involved in representing the input (a distributed representation) and must be adjusted together (high degree of freedom). Limiting the degree of freedom reduces the number of parameters to learn, facilitating learning of new classes from few examples. Hierarchical Bayesian (HB) models allow learning from few examples, for example[191][192][193][194][195] for computer vision, statistics and cognitive science.
+
+Compound HD architectures aim to integrate characteristics of both HB and deep networks. The compound HDP-DBM architecture is a hierarchical Dirichlet process (HDP) as a hierarchical model, incorporated with DBM architecture. It is a full generative model, generalized from abstract concepts flowing through the layers of the model, which is able to synthesize new examples in novel classes that look "reasonably" natural. All the levels are learned jointly by maximizing a joint log-probability score.[196]
+
+In a DBM with three hidden layers, the probability of a visible input ν is:
+
+    p ( ν , ψ ) = 1 Z ∑ h e ∑ i j W i j ( 1 ) ν i h j 1 + ∑ j l W j l ( 2 ) h j 1 h l 2 + ∑ l m W l m ( 3 ) h l 2 h m 3 , {\displaystyle p({\boldsymbol {\nu }},\psi )={\frac {1}{Z}}\sum _{h}e^{\sum _{ij}W_{ij}^{(1)}\nu _{i}h_{j}^{1}+\sum _{jl}W_{jl}^{(2)}h_{j}^{1}h_{l}^{2}+\sum _{lm}W_{lm}^{(3)}h_{l}^{2}h_{m}^{3}},} p({\boldsymbol {\nu }},\psi )={\frac {1}{Z}}\sum _{h}e^{\sum _{ij}W_{ij}^{(1)}\nu _{i}h_{j}^{1}+\sum _{jl}W_{jl}^{(2)}h_{j}^{1}h_{l}^{2}+\sum _{lm}W_{lm}^{(3)}h_{l}^{2}h_{m}^{3}},
+
+where h = { h ( 1 ) , h ( 2 ) , h ( 3 ) } {\displaystyle {\boldsymbol {h}}=\{{\boldsymbol {h}}^{(1)},{\boldsymbol {h}}^{(2)},{\boldsymbol {h}}^{(3)}\}} {\boldsymbol {h}}=\{{\boldsymbol {h}}^{(1)},{\boldsymbol {h}}^{(2)},{\boldsymbol {h}}^{(3)}\} is the set of hidden units, and ψ = { W ( 1 ) , W ( 2 ) , W ( 3 ) } {\displaystyle \psi =\{{\boldsymbol {W}}^{(1)},{\boldsymbol {W}}^{(2)},{\boldsymbol {W}}^{(3)}\}} \psi =\{{\boldsymbol {W}}^{(1)},{\boldsymbol {W}}^{(2)},{\boldsymbol {W}}^{(3)}\} are the model parameters, representing visible-hidden and hidden-hidden symmetric interaction terms.
+
+A learned DBM model is an undirected model that defines the joint distribution P ( ν , h 1 , h 2 , h 3 ) {\displaystyle P(\nu ,h^{1},h^{2},h^{3})} P(\nu ,h^{1},h^{2},h^{3}). One way to express what has been learned is the conditional model P ( ν , h 1 , h 2 | h 3 ) {\displaystyle P(\nu ,h^{1},h^{2}|h^{3})} P(\nu ,h^{1},h^{2}|h^{3}) and a prior term P ( h 3 ) {\displaystyle P(h^{3})} P(h^{3}).
+
+Here P ( ν , h 1 , h 2 | h 3 ) {\displaystyle P(\nu ,h^{1},h^{2}|h^{3})} P(\nu ,h^{1},h^{2}|h^{3}) represents a conditional DBM model, which can be viewed as a two-layer DBM but with bias terms given by the states of h 3 {\displaystyle h^{3}} h^{3}:
+
+    P ( ν , h 1 , h 2 | h 3 ) = 1 Z ( ψ , h 3 ) e ∑ i j W i j ( 1 ) ν i h j 1 + ∑ j l W j l ( 2 ) h j 1 h l 2 + ∑ l m W l m ( 3 ) h l 2 h m 3 . {\displaystyle P(\nu ,h^{1},h^{2}|h^{3})={\frac {1}{Z(\psi ,h^{3})}}e^{\sum _{ij}W_{ij}^{(1)}\nu _{i}h_{j}^{1}+\sum _{jl}W_{jl}^{(2)}h_{j}^{1}h_{l}^{2}+\sum _{lm}W_{lm}^{(3)}h_{l}^{2}h_{m}^{3}}.} P(\nu ,h^{1},h^{2}|h^{3})={\frac {1}{Z(\psi ,h^{3})}}e^{\sum _{ij}W_{ij}^{(1)}\nu _{i}h_{j}^{1}+\sum _{jl}W_{jl}^{(2)}h_{j}^{1}h_{l}^{2}+\sum _{lm}W_{lm}^{(3)}h_{l}^{2}h_{m}^{3}}.
+
+Deep coding networks
+
+A model that can actively update itself from the context in data has advantages. A deep predictive coding network (DPCN) is a predictive coding scheme where top-down information is used to empirically adjust the priors needed for a bottom-up inference procedure by means of a deep locally connected generative model. This works by extracting sparse features from time-varying observations using a linear dynamical model. Then, a pooling strategy is used to learn invariant feature representations. These units compose to form a deep architecture and are trained by greedy layer-wise unsupervised learning. The layers constitute a kind of Markov chain such that the states at any layer depend only on the preceding and succeeding layers.
+
+DPCNs predict the representation of the layer, by using a top-down approach using the information in upper layer and temporal dependencies from previous states.[197]
+
+DPCNs can be extended to form a convolutional network.[197]
+Deep Q-networks
+
+A deep Q-network (DQN) is a type of deep learning model that combines a deep CNN with Q-learning, a form of reinforcement learning. Unlike earlier reinforcement learning agents, DQNs can learn directly from high-dimensional sensory inputs.
+
+Preliminary results were presented in 2014, with an accompanying paper in February 2015.[198] The research described an application to Atari 2600 gaming. Other deep reinforcement learning models preceded it.[199]
+Networks with separate memory structures
+
+Integrating external memory with ANNs dates to early research in distributed representations[200] and Kohonen's self-organizing maps. For example, in sparse distributed memory or hierarchical temporal memory, the patterns encoded by neural networks are used as addresses for content-addressable memory, with "neurons" essentially serving as address encoders and decoders. However, the early controllers of such memories were not differentiable.
+LSTM-related differentiable memory structures
+
+Apart from long short-term memory (LSTM), other approaches also added differentiable memory to recurrent functions. For example:
+
+    Differentiable push and pop actions for alternative memory networks called neural stack machines[201][202]
+    Memory networks where the control network's external differentiable storage is in the fast weights of another network[203]
+    LSTM forget gates[204]
+    Self-referential RNNs with special output units for addressing and rapidly manipulating the RNN's own weights in differentiable fashion (internal storage)[205][206]
+    Learning to transduce with unbounded memory[207]
+
+Neural Turing machines
+Main article: Neural Turing machine
+
+Neural Turing machines[208] couple LSTM networks to external memory resources, with which they can interact by attentional processes. The combined system is analogous to a Turing machine but is differentiable end-to-end, allowing it to be efficiently trained by gradient descent. Preliminary results demonstrate that neural Turing machines can infer simple algorithms such as copying, sorting and associative recall from input and output examples.
+Semantic hashing
+
+Approaches that represent previous experiences directly and use a similar experience to form a local model are often called nearest neighbour or k-nearest neighbors methods.[209] Deep learning is useful in semantic hashing[210] where a deep graphical model the word-count vectors[211] obtained from a large set of documents.[clarification needed] Documents are mapped to memory addresses in such a way that semantically similar documents are located at nearby addresses. Documents similar to a query document can then be found by accessing all the addresses that differ by only a few bits from the address of the query document. Unlike sparse distributed memory that operates on 1000-bit addresses, semantic hashing works on 32 or 64-bit addresses found in a conventional computer architecture.
+Memory networks
+
+Memory networks[212][213] are another extension to neural networks incorporating long-term memory. The long-term memory can be read and written to, with the goal of using it for prediction. These models have been applied in the context of question answering (QA) where the long-term memory effectively acts as a (dynamic) knowledge base and the output is a textual response.[214]
+Pointer networks
+
+Deep neural networks can be potentially improved by deepening and parameter reduction, while maintaining trainability. While training extremely deep (e.g., 1 million layers) neural networks might not be practical, CPU-like architectures such as pointer networks[215] and neural random-access machines[216] overcome this limitation by using external random-access memory and other components that typically belong to a computer architecture such as registers, ALU and pointers. Such systems operate on probability distribution vectors stored in memory cells and registers. Thus, the model is fully differentiable and trains end-to-end. The key characteristic of these models is that their depth, the size of their short-term memory, and the number of parameters can be altered independently — unlike models like LSTM, whose number of parameters grows quadratically with memory size.
+Encoder–decoder networks
+
+Encoder–decoder frameworks are based on neural networks that map highly structured input to highly structured output. The approach arose in the context of machine translation,[217][218][219] where the input and output are written sentences in two natural languages. In that work, an LSTM RNN or CNN was used as an encoder to summarize a source sentence, and the summary was decoded using a conditional RNN language model to produce the translation.[220] These systems share building blocks: gated RNNs and CNNs and trained attention mechanisms.
+Multilayer kernel machine
+
+Multilayer kernel machines (MKM) are a way of learning highly nonlinear functions by iterative application of weakly nonlinear kernels. They use the kernel principal component analysis (KPCA),[221] as a method for the unsupervised greedy layer-wise pre-training step of the deep learning architecture.[222]
+
+Layer l + 1 {\displaystyle l+1} l+1 learns the representation of the previous layer l {\displaystyle l} l, extracting the n l {\displaystyle n_{l}} n_{l} principal component (PC) of the projection layer l {\displaystyle l} l output in the feature domain induced by the kernel. For the sake of dimensionality reduction of the updated representation in each layer, a supervised strategy is proposed to select the best informative features among features extracted by KPCA. The process is:
+
+    rank the n l {\displaystyle n_{l}} n_{l} features according to their mutual information with the class labels;
+    for different values of K and m l ∈ { 1 , … , n l } {\displaystyle m_{l}\in \{1,\ldots ,n_{l}\}} m_{l}\in \{1,\ldots ,n_{l}\}, compute the classification error rate of a K-nearest neighbor (K-NN) classifier using only the m l {\displaystyle m_{l}} m_{l} most informative features on a validation set;
+    the value of m l {\displaystyle m_{l}} m_{l} with which the classifier has reached the lowest error rate determines the number of features to retain.
+
+Some drawbacks accompany the KPCA method as the building cells of an MKM.
+
+A more straightforward way to use kernel machines for deep learning was developedfor spoken language understanding.[223] The main idea is to use a kernel machine to approximate a shallow neural net with an infinite number of hidden units, then use stacking to splice the output of the kernel machine and the raw input in building the next, higher level of the kernel machine. The number of levels in the deep convex network is a hyper-parameter of the overall system, to be determined by cross validation.
+Applications
+Automatic speech recognition
+Main article: Speech recognition
+
+Speech recognition was revolutionised by deep learning, especially by long short-term memory RNNs.[52] LSTM RNNs circumvent the vanishing gradient problem and can learn "Very Deep Learning" tasks[6] that involve multi-second intervals containing speech events separated by thousands of discrete time steps, where one time step corresponds to about 10 ms. In 2003, LSTM with forget gates[107] became competitive with traditional speech recognizers on certain tasks.[53] In 2007, LSTM trained by CTC[54] achieved excellent results on tasks such as discriminative keyword spotting.[55] In 2015, Google's speech recognition almost doubled its performance through CTC-trained LSTM.[56]
+
+The initial success in speech recognition, was based on small-scale recognition tasks based on the popular TIMIT data set (a common data set used for evaluations). The set contains 630 speakers from eight major dialects of American English, where each speaker reads 10 sentences.[224] Its small size allows many configurations to be tried. More importantly, the TIMIT task concerns phone-sequence recognition, which, unlike word-sequence recognition, allows very weak "language models".[clarification needed] This allows the weaknesses in acoustic modeling aspects of speech recognition to be more easily analyzed. Analysis on TIMIT by Li and collaborators around 2009-2010, contrasting the GMM (and other generative speech models) vs. DNN models, stimulated early industrial investment in deep learning for speech recognition,[49][69] eventually leading to pervasive and dominant use in that industry. That analysis was done with comparable performance (less than 1.5% in error rate) between discriminative DNNs and generative models. The error rates listed below, including these early results and measured as percent phone error rates (PER), have been summarized over the past 20 years:
+Method 	PER (%)
+Randomly Initialized RNN 	26.1
+Bayesian Triphone GMM-HMM 	25.6
+Hidden Trajectory (Generative) Model 	24.8
+Monophone Randomly Initialized DNN 	23.4
+Monophone DBN-DNN 	22.4
+Triphone GMM-HMM with BMMI Training 	21.7
+Monophone DBN-DNN on fbank 	20.7
+Convolutional DNN[225] 	20.0
+Convolutional DNN w. Heterogeneous Pooling 	18.7
+Ensemble DNN/CNN/RNN[226] 	18.2
+Bidirectional LSTM 	17.9
+
+In 2010, researchers extended deep learning from TIMIT to large vocabulary speech recognition, by adopting large output layers of the DNN based on context-dependent HMM states constructed by decision trees.[227][228][229][70]
+
+The principle of elevating "raw" features over hand-crafted optimization was first explored successfully in the architecture of deep autoencoder on the "raw" spectrogram or linear filter-bank features in the late 1990s,[47] showing its superiority over the Mel-Cepstral features that contain stages of fixed transformation from spectrograms. The raw features of speech, waveforms, later produced excellent larger-scale results.[230]
+
+The debut of DNNs for speaker recognition in the late 1990s and speech recognition around 2009-2011 and of LSTM around 2003-2007, accelerated progress in eight major areas:[3][51][70]
+
+    Scale-up/out and acclerated DNN training and decoding
+    Sequence discriminative training
+    Feature processing by deep models with solid understanding of the underlying mechanisms
+    Adaptation of DNNs and related deep models
+    Multi-task and transfer learning by DNNs and related deep models
+    CNNs and how to design them to best exploit domain knowledge of speech
+    RNN and its rich LSTM variants
+    Other types of deep models including tensor-based models and integrated deep generative/discriminative models.
+
+Large-scale automatic speech recognition is the first and most convincing successful case of deep learning. Between 2010 and 2014, the two major conferences on signal processing and speech recognition, IEEE-ICASSP and Interspeech both saw a large increase in the numbers of accepted papers in their respective annual conference papers on the topic of deep learning for speech recognition. All major commercial speech recognition systems (e.g., Microsoft Cortana, Xbox, Skype Translator, Amazon Alexa, Google Now, Apple Siri, Baidu and iFlyTek voice search, and a range of Nuance speech products, etc.) are based on deep learning.[3][231][232][233]
+Image recognition
+Main article: Computer vision
+
+A common evaluation set for image classification is the MNIST database data set. MNIST is composed of handwritten digits and includes 60,000 training examples and 10,000 test examples. As with TIMIT, its small size allows multiple configurations to be tested. A comprehensive list of results on this set is available.[234] The current best result on MNIST is an error rate of 0.23%, achieved by Ciresan et al. in 2012.[235]
+
+According to LeCun,[67] in the early 2000s, CNNs processed an estimated 10% to 20% of all the checks written in the US.
+
+Significant additional impacts in image or object recognition were felt from 2011–2012. Although CNNs trained by backpropagation had been around for decades,[31] and GPU implementations of NNs for years,[74] including CNNs,[75] fast implementations of CNNs with max-pooling on GPUs in the style of Ciresan and colleaguesg[96] were needed to progress on computer vision.[6] In 2011, this approach achieved for the first time superhuman performance in a visual pattern recognition contest.[98] Also in 2011, it won the ICDAR Chinese handwriting contest, and in May 2012, it won the ISBI image segmentation contest.[99] Until 2011, CNNs did not play a major role at computer vision conferences, but in June 2012, a paper by Ciresan et al. at the leading conference CVPR[100] showed how max-pooling CNNs on GPU can dramatically improve many vision benchmark records. In October 2012, a similar system by Krizhevsky and Hinton[14] won the large-scale ImageNet competition by a significant margin over shallow machine learning methods. In November 2012, Ciresan et al.'s system also won the ICPR contest on analysis of large medical images for cancer detection, and in the following year also the MICCAI Grand Challenge on the same topic.[236] In 2013 and 2014, the error rate on the ImageNet task using deep learning was further reduced, following a similar trend in large-scale speech recognition. The Wolfram Image Identification project publicized these improvements.[237]
+
+Image classification was then extended to the more challenging task of generating descriptions (captions) for images, often as a combination of CNNs and LSTMs.[238][239][240][241] Deep learning-trained vehicles now interpret 360° camera views.[242] Another example is Facial Dysmorphology Novel Analysis (FDNA) used to analyze cases of human malformation connected to a large database of genetic syndromes.
+Natural language processing
+Main article: Natural language processing
+
+Neural networks have been used for implementing language models since the early 2000s.[108][243] Recurrent neural networks, especially LSTM,[52] are most appropriate for sequential data such as language. LSTM helped to improve machine translation[109] and language modeling.[110][111]
+
+Other key techniques in this field are negative sampling[244] and word embedding. Word embedding, such as word2vec, can be thought of as a representational layer in a deep learning architecture that transforms an atomic word into a positional representation of the word relative to other words in the dataset; the position is represented as a point in a vector space. Using word embedding as an RNN input layer allows the network to parse sentences and phrases using an effective compositional vector grammar. A compositional vector grammar can be thought of as probabilistic context free grammar (PCFG) implemented by an RNN.[245] Recursive auto-encoders built atop word embeddings can assess sentence similarity and detect paraphrasing.[245] Deep neural architectures have achieved state-of-the-art results in natural language processing tasks such as constituency parsing,[246] sentiment analysis,[247] information retrieval,[248][249] spoken language understanding,[250] machine translation,[109][251] contextual entity linking,[252] writing style recognition [253] and others.[254][excessive citations]
+Drug discovery and toxicology
+For more information, see Drug discovery and Toxicology.
+
+A large percentage of candidate drugs fail to win regulatory approval. These failures are caused by insufficient efficacy (on-target effect), undesired interactions (off-target effects), or unanticipated toxic effects.[255][256] In 2012, a team led by Dahl won the "Merck Molecular Activity Challenge" using multi-task deep neural networks to predict the biomolecular target of one drug.[257][258] In 2014, Hochreiter's group used deep learning to detect off-target and toxic effects of environmental chemicals in nutrients, household products and drugs and won the "Tox21 Data Challenge" of NIH, FDA and NCATS.[259][260][261] Deep learning may outdo other virtual screening methods.[262][263] Researchers enhanced deep learning for drug discovery by combining data from a variety of sources.[264] In 2015, Atomwise introduced AtomNet, the first deep learning neural networks for structure-based rational drug design.[265] Subsequently, AtomNet was used to predict novel candidate biomolecules for several disease targets, most notably treatments for the Ebola virus[266] and multiple sclerosis.[267][268]
+Customer relationship management
+Main article: Customer relationship management
+
+Deep reinforcement learning demonstrated a use in direct marketing settings, illustrating suitability for CRM automation. A neural network was used to approximate the value of possible direct marketing actions over the customer state space, defined in terms of RFM variables. The estimated value function was shown to have a natural interpretation as customer lifetime value.[269]
+Recommendation systems
+Main article: Recommender system
+
+Recommendation systems have used deep learning to extract meaningful features for a latent factor model for content-based music recommendations.[270] Multiview deep learning has been applied for learning user preferences from multiple domains.[271] The model uses a hybrid collaborative and content-based approach and enhances recommendations in multiple tasks.
+Bioinformatics
+Main article: Bioinformatics
+
+An autoencoder ANN was used in bioinformatics, to predict gene ontology annotations and gene-function relationships.[272]
+
+In medical informatics, deep learning was used to predict sleep quality based on data from wearables[273] and predictions of health complications from Electronic health record data.[274]
+Relation to human development
+
+Deep learning is closely related to a class of theories of brain development (specifically, neocortical development) proposed by cognitive neuroscientists in the early 1990s.[275] An approachable summary of this work is Elman, et al.'s 1996 Rethinking Innateness[276] (see also: Shrager and Johnson;[277] Quartz and Sejnowski[278]). These developmental theories were instantiated in computational models, making them predecessors of purely computation-derived deep learning models. These developmental models share the property that various proposed learning dynamics in the brain (e.g., a wave of nerve growth factor) support the self-organization similar to the inter-related neural networks utilized in deep learning models. Such computational neural networks seem analogous to a view of the neocortex as a hierarchy of filters in which each layer captures some of the information in the operating environment, and then passes the remainder, as well as modified base signal, to other layers further up the hierarchy. This process yields a self-organizing stack of transducers, well-tuned to their operating environment. A 1995 description stated, "...the infant's brain seems to organize itself under the influence of waves of so-called trophic-factors ... different regions of the brain become connected sequentially, with one layer of tissue maturing before another and so on until the whole brain is mature."[279]
+Commercial activity
+
+Many organizations have become interested in deep learning for particular applications. In 2013, Facebook hired Yann LeCun to head its new artificial intelligence (AI) lab. The AI lab will help perform tasks such as automatically tagging uploaded pictures with the names of the people in them.[280] In 2014, Facebook hired Vladimir Vapnik, a main developer of the Vapnik–Chervonenkis theory of statistical learning, and co-inventor of the support vector machine method.[281]
+
+In 2014, Google bought DeepMind Technologies, a British start-up that developed a system capable of learning how to play Atari video games using only pixels as data input. In 2015 they demonstrated their AlphaGo system which achieved one of the long-standing "grand challenges" of AI by learning the game of Go well enough to beat a professional Go player.[282][283][284]
+
+In 2015, Blippar demonstrated a mobile augmented reality application that uses deep learning to recognize objects in real time.[285]
+Criticism and comment
+
+Deep learning has attracted both criticism and comment, in some cases from outside the field of computer science.
+
+A main criticism concerns the lack of theory surrounding the methods.[citation needed] Learning in the most common deep architectures is implemented using well-understood gradient descent. However, the theory surrounding other algorithms, such as contrastive divergence is less clear.[citation needed] (e.g., Does it converge? If so, how fast? What is it approximating?) Deep learning methods are often looked at as a black box, with most confirmations done empirically, rather than theoretically.[citation needed]
+
+Others point out that deep learning should be looked at as a step towards realizing strong AI, not as an all-encompassing solution. Despite the power of deep learning methods, they still lack much of the functionality needed for realizing this goal entirely. Research psychologist Gary Marcus noted:
+
+    "Realistically, deep learning is only part of the larger challenge of building intelligent machines. Such techniques lack ways of representing causal relationships (...) have no obvious ways of performing logical inferences, and they are also still a long way from integrating abstract knowledge, such as information about what objects are, what they are for, and how they are typically used. The most powerful A.I. systems, like Watson (...) use techniques like deep learning as just one element in a very complicated ensemble of techniques, ranging from the statistical technique of Bayesian inference to deductive reasoning."[286]
+
+Alternatively, one author speculated that it might be possible to train a machine vision stack to perform the sophisticated task of discriminating between "old master" and amateur figure drawings; while another hypothesized that such a sensitivity might represent the rudiments of a non-trivial machine empathy.[287] Another author proposed that this would be in line with anthropology, which identifies a concern with aesthetics as a key element of behavioral modernity.[288]
+
+In further reference to the idea that artistic sensitivity might inhere within relatively low levels of the cognitive hierarchy, a published series of graphic representations of the internal states of deep (20-30 layers) neural networks attempting to discern within essentially random data the images on which they were trained[289] demonstrate a visual appeal: the original research notice received well over 1,000 comments, and was for a time the most frequently accessed article on The Guardian's[290] web site.
+
+Some deep learning architectures display problematic behaviors,[291] such as confidently classifying unrecognizable images as belonging to a familiar category of ordinary images[292] and misclassifying minuscule perturbations of correctly classified images.[293] Goertzel hypothesized that these behaviors are due to limitations in their internal representations and that these limitations would inhibit integration into heterogeneous multi-component AGI architectures.[291] These issues may possibly be addresed by deep learning architectures that internally form states homologous to image-grammar[294] decompositions of observed entities and events.[291] Learning a grammar (visual or linguistic) from training data would be equivalent to restricting the system to commonsense reasoning that operates on concepts in terms of grammatical production rules and is a basic goal of both human language acquisition[295] and AI.[296]
